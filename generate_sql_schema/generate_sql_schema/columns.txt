@@ -1,0 +1,7 @@
+Mismatch Item	varchar
+Mismatch Message	varchar
+Approve Person	varchar
+Approve Time	varchar
+Block	varchar
+Post it	varchar
+CONT_TYPE	varchar

@@ -1,0 +1,31 @@
+{
+	"id": "123",
+	"seq": "01",
+	"list": [
+		{
+			"name": "test",
+			"testObj": {
+				"testName": "test"
+			}, 
+			"testList": [
+				{
+					"insideListTestList": "test",
+					"timestamp": 123
+				}
+			]
+		},
+		{
+			"name": "test1",
+			"testList": [
+				{
+					"id": "234",
+					"action_id": "345"
+				}
+			]
+		}
+	],
+	"map": {
+		"mapId": "testMap",
+		"mapName": "testMapName"
+	}
+}

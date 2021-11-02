@@ -1,0 +1,9808 @@
+minstr_list
+*	mail_freq_ovr: 
+		false
+*	is_dflt: 
+		false
+*	mail_evt_id: 
+		
+*	minstr_templ_id: 
+		ccm_adv
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	addr_id: 
+		69183
+*	id: 
+		181
+*	is_active: 
+		true
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_action_ovr: 
+		false
+*	mail_freq_id: 
+		day
+*	dlv_addr_id: 
+		69183
+*	lang_id: 
+		
+*	lang_src_id: 
+		from_bp
+*	is_neutral: 
+		false
+minstr_list
+*	dlv_addr_id: 
+		69183
+*	id: 
+		182
+*	mail_freq_id: 
+		mth
+*	mail_freq_ovr: 
+		false
+*	is_dflt: 
+		false
+*	mail_evt_id: 
+		
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	is_active: 
+		true
+*	is_neutral: 
+		false
+*	lang_id: 
+		
+*	lang_src_id: 
+		from_bp
+*	mail_action_id: 
+		mba$ccm_send
+*	minstr_templ_id: 
+		ccm_stmt_portf
+*	addr_id: 
+		69183
+*	mail_action_ovr: 
+		false
+minstr_list
+*	mail_evt_id: 
+		
+*	mail_freq_id: 
+		day
+*	mail_freq_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_letter
+*	dlv_addr_id: 
+		69183
+*	lang_id: 
+		
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_action_ovr: 
+		false
+*	is_dflt: 
+		false
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	addr_id: 
+		69183
+*	is_active: 
+		true
+*	is_neutral: 
+		false
+*	lang_src_id: 
+		from_bp
+*	id: 
+		183
+minstr_list
+*	mail_freq_ovr: 
+		false
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	is_neutral: 
+		false
+*	mail_action_ovr: 
+		false
+*	mail_evt_id: 
+		
+*	mail_freq_id: 
+		day
+*	mail_action_id: 
+		mba$ccm_send
+*	lang_id: 
+		
+*	minstr_templ_id: 
+		ccm_adv
+*	is_dflt: 
+		false
+*	dlv_addr_id: 
+		69226
+*	id: 
+		184
+*	is_active: 
+		true
+*	lang_src_id: 
+		from_bp
+*	addr_id: 
+		69226
+minstr_list
+*	is_active: 
+		true
+*	lang_src_id: 
+		from_bp
+*	mail_action_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_stmt_portf
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_freq_id: 
+		mth
+*	id: 
+		185
+*	is_neutral: 
+		false
+*	mail_evt_id: 
+		
+*	mail_freq_ovr: 
+		false
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	addr_id: 
+		69226
+*	dlv_addr_id: 
+		69226
+*	is_dflt: 
+		false
+*	lang_id: 
+		
+minstr_list
+*	addr_id: 
+		69226
+*	dlv_addr_id: 
+		69226
+*	is_neutral: 
+		false
+*	minstr_templ_id: 
+		ccm_letter
+*	id: 
+		186
+*	mail_action_ovr: 
+		false
+*	mail_freq_id: 
+		day
+*	mail_freq_ovr: 
+		false
+*	is_active: 
+		true
+*	mail_evt_id: 
+		
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	is_dflt: 
+		false
+*	lang_id: 
+		
+*	lang_src_id: 
+		from_bp
+*	mail_action_id: 
+		mba$ccm_send
+minstr_list
+*	is_active: 
+		true
+*	is_dflt: 
+		false
+*	is_neutral: 
+		false
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_action_ovr: 
+		false
+*	mail_freq_ovr: 
+		false
+*	addr_id: 
+		69271
+*	id: 
+		187
+*	mail_evt_id: 
+		
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	lang_src_id: 
+		from_bp
+*	mail_freq_id: 
+		day
+*	minstr_templ_id: 
+		ccm_adv
+*	dlv_addr_id: 
+		69271
+*	lang_id: 
+		
+minstr_list
+*	id: 
+		188
+*	is_dflt: 
+		false
+*	lang_id: 
+		
+*	mail_action_ovr: 
+		false
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	addr_id: 
+		69271
+*	is_active: 
+		true
+*	is_neutral: 
+		false
+*	mail_freq_ovr: 
+		false
+*	mail_evt_id: 
+		
+*	mail_freq_id: 
+		mth
+*	minstr_templ_id: 
+		ccm_stmt_portf
+*	dlv_addr_id: 
+		69271
+*	lang_src_id: 
+		from_bp
+*	mail_action_id: 
+		mba$ccm_send
+minstr_list
+*	is_active: 
+		true
+*	is_dflt: 
+		false
+*	addr_id: 
+		69271
+*	dlv_addr_id: 
+		69271
+*	minstr_templ_id: 
+		ccm_letter
+*	id: 
+		189
+*	mail_evt_id: 
+		
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_freq_ovr: 
+		false
+*	lang_id: 
+		
+*	lang_src_id: 
+		from_bp
+*	mail_freq_id: 
+		day
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	is_neutral: 
+		false
+*	mail_action_ovr: 
+		false
+minstr_list
+*	mail_freq_id: 
+		day
+*	addr_id: 
+		69314
+*	id: 
+		190
+*	lang_src_id: 
+		from_bp
+*	mail_evt_id: 
+		
+*	is_active: 
+		true
+*	is_dflt: 
+		false
+*	is_neutral: 
+		false
+*	mail_action_id: 
+		mba$ccm_send
+*	dlv_addr_id: 
+		69314
+*	lang_id: 
+		
+*	mail_freq_ovr: 
+		false
+*	mail_action_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_adv
+*	obj_rel_sub_type_id: 
+		mail_bp
+minstr_list
+*	lang_id: 
+		
+*	mail_freq_id: 
+		mth
+*	mail_freq_ovr: 
+		false
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	is_active: 
+		true
+*	is_dflt: 
+		false
+*	is_neutral: 
+		false
+*	mail_action_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_stmt_portf
+*	dlv_addr_id: 
+		69314
+*	id: 
+		191
+*	addr_id: 
+		69314
+*	lang_src_id: 
+		from_bp
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_evt_id: 
+		
+minstr_list
+*	is_active: 
+		true
+*	lang_id: 
+		
+*	lang_src_id: 
+		from_bp
+*	addr_id: 
+		69314
+*	id: 
+		192
+*	is_dflt: 
+		false
+*	mail_evt_id: 
+		
+*	mail_freq_id: 
+		day
+*	is_neutral: 
+		false
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_action_ovr: 
+		false
+*	mail_freq_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_letter
+*	dlv_addr_id: 
+		69314
+*	obj_rel_sub_type_id: 
+		mail_bp
+minstr_list
+*	is_dflt: 
+		false
+*	mail_action_ovr: 
+		false
+*	dlv_addr_id: 
+		69366
+*	id: 
+		193
+*	mail_freq_id: 
+		day
+*	is_neutral: 
+		false
+*	mail_evt_id: 
+		
+*	lang_id: 
+		
+*	lang_src_id: 
+		from_bp
+*	mail_action_id: 
+		mba$ccm_send
+*	minstr_templ_id: 
+		ccm_adv
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	addr_id: 
+		69366
+*	is_active: 
+		true
+*	mail_freq_ovr: 
+		false
+minstr_list
+*	lang_src_id: 
+		from_bp
+*	mail_action_id: 
+		mba$ccm_send
+*	minstr_templ_id: 
+		ccm_stmt_portf
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	dlv_addr_id: 
+		69366
+*	id: 
+		194
+*	is_neutral: 
+		false
+*	is_active: 
+		true
+*	is_dflt: 
+		false
+*	mail_action_ovr: 
+		false
+*	mail_evt_id: 
+		
+*	mail_freq_ovr: 
+		false
+*	addr_id: 
+		69366
+*	lang_id: 
+		
+*	mail_freq_id: 
+		mth
+minstr_list
+*	mail_action_ovr: 
+		false
+*	mail_evt_id: 
+		
+*	mail_freq_ovr: 
+		false
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	addr_id: 
+		69366
+*	is_active: 
+		true
+*	is_neutral: 
+		false
+*	lang_id: 
+		
+*	is_dflt: 
+		false
+*	mail_action_id: 
+		mba$ccm_send
+*	dlv_addr_id: 
+		69366
+*	minstr_templ_id: 
+		ccm_letter
+*	id: 
+		195
+*	lang_src_id: 
+		from_bp
+*	mail_freq_id: 
+		day
+minstr_list
+*	mail_freq_ovr: 
+		false
+*	is_dflt: 
+		false
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_freq_id: 
+		day
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	lang_id: 
+		
+*	lang_src_id: 
+		from_bp
+*	mail_action_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_adv
+*	addr_id: 
+		69406
+*	is_active: 
+		true
+*	is_neutral: 
+		false
+*	dlv_addr_id: 
+		69406
+*	id: 
+		196
+*	mail_evt_id: 
+		
+minstr_list
+*	addr_id: 
+		69406
+*	id: 
+		197
+*	lang_id: 
+		
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_evt_id: 
+		
+*	is_active: 
+		true
+*	is_dflt: 
+		false
+*	is_neutral: 
+		false
+*	mail_freq_id: 
+		mth
+*	mail_freq_ovr: 
+		false
+*	dlv_addr_id: 
+		69406
+*	lang_src_id: 
+		from_bp
+*	mail_action_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_stmt_portf
+*	obj_rel_sub_type_id: 
+		mail_bp
+minstr_list
+*	addr_id: 
+		69406
+*	is_neutral: 
+		false
+*	lang_src_id: 
+		from_bp
+*	minstr_templ_id: 
+		ccm_letter
+*	id: 
+		198
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_freq_id: 
+		day
+*	dlv_addr_id: 
+		69406
+*	is_dflt: 
+		false
+*	lang_id: 
+		
+*	mail_evt_id: 
+		
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	is_active: 
+		true
+*	mail_action_ovr: 
+		false
+*	mail_freq_ovr: 
+		false
+minstr_list
+*	id: 
+		199
+*	is_active: 
+		true
+*	lang_id: 
+		
+*	lang_src_id: 
+		from_bp
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_freq_ovr: 
+		false
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	dlv_addr_id: 
+		69446
+*	mail_freq_id: 
+		day
+*	minstr_templ_id: 
+		ccm_adv
+*	is_dflt: 
+		false
+*	mail_action_ovr: 
+		false
+*	is_neutral: 
+		false
+*	mail_evt_id: 
+		
+*	addr_id: 
+		69446
+minstr_list
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_action_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_stmt_portf
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	lang_src_id: 
+		from_bp
+*	mail_freq_ovr: 
+		false
+*	dlv_addr_id: 
+		69446
+*	id: 
+		200
+*	is_active: 
+		true
+*	is_dflt: 
+		false
+*	is_neutral: 
+		false
+*	lang_id: 
+		
+*	mail_freq_id: 
+		mth
+*	addr_id: 
+		69446
+*	mail_evt_id: 
+		
+minstr_list
+*	id: 
+		201
+*	is_neutral: 
+		false
+*	mail_action_id: 
+		mba$ccm_send
+*	dlv_addr_id: 
+		69446
+*	is_dflt: 
+		false
+*	lang_src_id: 
+		from_bp
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	minstr_templ_id: 
+		ccm_letter
+*	addr_id: 
+		69446
+*	is_active: 
+		true
+*	lang_id: 
+		
+*	mail_evt_id: 
+		
+*	mail_action_ovr: 
+		false
+*	mail_freq_id: 
+		day
+*	mail_freq_ovr: 
+		false
+minstr_list
+*	is_active: 
+		true
+*	is_dflt: 
+		false
+*	lang_src_id: 
+		from_bp
+*	mail_action_ovr: 
+		false
+*	mail_evt_id: 
+		
+*	minstr_templ_id: 
+		ccm_letter
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	dlv_addr_id: 
+		69489
+*	mail_freq_ovr: 
+		false
+*	is_neutral: 
+		false
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_freq_id: 
+		day
+*	addr_id: 
+		69489
+*	id: 
+		204
+*	lang_id: 
+		
+minstr_list
+*	is_dflt: 
+		false
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	dlv_addr_id: 
+		69491
+*	lang_id: 
+		
+*	lang_src_id: 
+		from_bp
+*	mail_freq_id: 
+		day
+*	minstr_templ_id: 
+		ccm_adv
+*	id: 
+		202
+*	is_active: 
+		true
+*	is_neutral: 
+		false
+*	addr_id: 
+		69491
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_action_ovr: 
+		false
+*	mail_evt_id: 
+		
+*	mail_freq_ovr: 
+		false
+minstr_list
+*	id: 
+		203
+*	lang_id: 
+		
+*	mail_action_ovr: 
+		false
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	dlv_addr_id: 
+		69491
+*	is_neutral: 
+		false
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_freq_id: 
+		mth
+*	addr_id: 
+		69491
+*	is_active: 
+		true
+*	is_dflt: 
+		false
+*	lang_src_id: 
+		from_bp
+*	mail_freq_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_stmt_portf
+*	mail_evt_id: 
+		
+minstr_list
+*	addr_id: 
+		69538
+*	is_active: 
+		true
+*	is_dflt: 
+		false
+*	mail_action_id: 
+		mba$ccm_send
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	is_neutral: 
+		false
+*	lang_id: 
+		
+*	lang_src_id: 
+		from_bp
+*	mail_action_ovr: 
+		false
+*	mail_freq_id: 
+		day
+*	mail_freq_ovr: 
+		false
+*	dlv_addr_id: 
+		69538
+*	id: 
+		205
+*	mail_evt_id: 
+		
+*	minstr_templ_id: 
+		ccm_adv
+minstr_list
+*	is_active: 
+		true
+*	is_neutral: 
+		false
+*	lang_id: 
+		
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_action_ovr: 
+		false
+*	id: 
+		206
+*	lang_src_id: 
+		from_bp
+*	mail_freq_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_stmt_portf
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	addr_id: 
+		69538
+*	is_dflt: 
+		false
+*	dlv_addr_id: 
+		69538
+*	mail_evt_id: 
+		
+*	mail_freq_id: 
+		mth
+minstr_list
+*	mail_action_ovr: 
+		false
+*	addr_id: 
+		69538
+*	is_active: 
+		true
+*	is_neutral: 
+		false
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	mail_evt_id: 
+		
+*	mail_freq_id: 
+		day
+*	mail_freq_ovr: 
+		false
+*	lang_src_id: 
+		from_bp
+*	mail_action_id: 
+		mba$ccm_send
+*	minstr_templ_id: 
+		ccm_letter
+*	dlv_addr_id: 
+		69538
+*	id: 
+		207
+*	lang_id: 
+		
+*	is_dflt: 
+		false
+minstr_list
+*	is_dflt: 
+		false
+*	mail_action_ovr: 
+		false
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	dlv_addr_id: 
+		69581
+*	is_active: 
+		true
+*	minstr_templ_id: 
+		ccm_adv
+*	addr_id: 
+		69581
+*	id: 
+		208
+*	lang_id: 
+		
+*	mail_freq_id: 
+		day
+*	mail_freq_ovr: 
+		false
+*	is_neutral: 
+		false
+*	lang_src_id: 
+		from_bp
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_evt_id: 
+		
+minstr_list
+*	is_dflt: 
+		false
+*	is_neutral: 
+		false
+*	minstr_templ_id: 
+		ccm_stmt_portf
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	dlv_addr_id: 
+		69581
+*	mail_action_ovr: 
+		false
+*	lang_id: 
+		
+*	is_active: 
+		true
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_evt_id: 
+		
+*	addr_id: 
+		69581
+*	lang_src_id: 
+		from_bp
+*	mail_freq_id: 
+		mth
+*	mail_freq_ovr: 
+		false
+*	id: 
+		209
+minstr_list
+*	is_dflt: 
+		false
+*	lang_id: 
+		
+*	mail_freq_id: 
+		day
+*	is_active: 
+		true
+*	is_neutral: 
+		false
+*	mail_action_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_letter
+*	addr_id: 
+		69581
+*	dlv_addr_id: 
+		69581
+*	id: 
+		210
+*	lang_src_id: 
+		from_bp
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_evt_id: 
+		
+*	mail_freq_ovr: 
+		false
+*	obj_rel_sub_type_id: 
+		mail_bp
+minstr_list
+*	is_neutral: 
+		false
+*	lang_id: 
+		
+*	mail_evt_id: 
+		
+*	mail_freq_id: 
+		day
+*	mail_freq_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_adv
+*	dlv_addr_id: 
+		69638
+*	is_dflt: 
+		false
+*	lang_src_id: 
+		from_bp
+*	mail_action_ovr: 
+		false
+*	is_active: 
+		true
+*	mail_action_id: 
+		mba$ccm_send
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	addr_id: 
+		69638
+*	id: 
+		211
+minstr_list
+*	is_active: 
+		true
+*	is_dflt: 
+		false
+*	lang_src_id: 
+		from_bp
+*	mail_freq_ovr: 
+		false
+*	addr_id: 
+		69638
+*	id: 
+		212
+*	mail_action_ovr: 
+		false
+*	lang_id: 
+		
+*	minstr_templ_id: 
+		ccm_stmt_portf
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	dlv_addr_id: 
+		69638
+*	is_neutral: 
+		false
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_evt_id: 
+		
+*	mail_freq_id: 
+		mth
+minstr_list
+*	id: 
+		213
+*	is_dflt: 
+		false
+*	mail_freq_id: 
+		day
+*	minstr_templ_id: 
+		ccm_letter
+*	is_active: 
+		true
+*	mail_action_ovr: 
+		false
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_evt_id: 
+		
+*	is_neutral: 
+		false
+*	lang_id: 
+		
+*	lang_src_id: 
+		from_bp
+*	mail_freq_ovr: 
+		false
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	addr_id: 
+		69638
+*	dlv_addr_id: 
+		69638
+minstr_list
+*	addr_id: 
+		69681
+*	mail_freq_id: 
+		day
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	mail_evt_id: 
+		
+*	dlv_addr_id: 
+		69681
+*	id: 
+		214
+*	is_active: 
+		true
+*	is_neutral: 
+		false
+*	lang_id: 
+		
+*	mail_action_ovr: 
+		false
+*	lang_src_id: 
+		from_bp
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_freq_ovr: 
+		false
+*	is_dflt: 
+		false
+*	minstr_templ_id: 
+		ccm_adv
+minstr_list
+*	addr_id: 
+		69681
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_freq_id: 
+		mth
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	is_dflt: 
+		false
+*	lang_id: 
+		
+*	lang_src_id: 
+		from_bp
+*	mail_evt_id: 
+		
+*	minstr_templ_id: 
+		ccm_stmt_portf
+*	id: 
+		215
+*	is_neutral: 
+		false
+*	dlv_addr_id: 
+		69681
+*	is_active: 
+		true
+*	mail_action_ovr: 
+		false
+*	mail_freq_ovr: 
+		false
+minstr_list
+*	dlv_addr_id: 
+		69681
+*	id: 
+		216
+*	is_neutral: 
+		false
+*	mail_evt_id: 
+		
+*	mail_freq_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_letter
+*	lang_id: 
+		
+*	lang_src_id: 
+		from_bp
+*	mail_action_id: 
+		mba$ccm_send
+*	addr_id: 
+		69681
+*	is_active: 
+		true
+*	is_dflt: 
+		false
+*	mail_action_ovr: 
+		false
+*	mail_freq_id: 
+		day
+*	obj_rel_sub_type_id: 
+		mail_bp
+minstr_list
+*	dlv_addr_id: 
+		69724
+*	id: 
+		217
+*	lang_id: 
+		
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_evt_id: 
+		
+*	addr_id: 
+		69724
+*	is_dflt: 
+		false
+*	lang_src_id: 
+		from_bp
+*	mail_action_ovr: 
+		false
+*	mail_freq_id: 
+		day
+*	minstr_templ_id: 
+		ccm_adv
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	is_active: 
+		true
+*	is_neutral: 
+		false
+*	mail_freq_ovr: 
+		false
+minstr_list
+*	id: 
+		218
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_freq_id: 
+		mth
+*	is_dflt: 
+		false
+*	lang_id: 
+		
+*	addr_id: 
+		69724
+*	dlv_addr_id: 
+		69724
+*	is_neutral: 
+		false
+*	mail_action_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_stmt_portf
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	is_active: 
+		true
+*	lang_src_id: 
+		from_bp
+*	mail_evt_id: 
+		
+*	mail_freq_ovr: 
+		false
+minstr_list
+*	mail_freq_ovr: 
+		false
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	mail_evt_id: 
+		
+*	is_active: 
+		true
+*	is_dflt: 
+		false
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_freq_id: 
+		day
+*	minstr_templ_id: 
+		ccm_letter
+*	addr_id: 
+		69724
+*	lang_src_id: 
+		from_bp
+*	lang_id: 
+		
+*	id: 
+		219
+*	is_neutral: 
+		false
+*	mail_action_ovr: 
+		false
+*	dlv_addr_id: 
+		69724
+minstr_list
+*	id: 
+		220
+*	is_dflt: 
+		false
+*	minstr_templ_id: 
+		ccm_adv
+*	lang_src_id: 
+		from_bp
+*	mail_evt_id: 
+		
+*	mail_freq_id: 
+		day
+*	is_active: 
+		true
+*	lang_id: 
+		
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	mail_action_ovr: 
+		false
+*	mail_freq_ovr: 
+		false
+*	addr_id: 
+		69767
+*	dlv_addr_id: 
+		69767
+*	is_neutral: 
+		false
+*	mail_action_id: 
+		mba$ccm_send
+minstr_list
+*	is_dflt: 
+		false
+*	lang_id: 
+		
+*	lang_src_id: 
+		from_bp
+*	mail_action_ovr: 
+		false
+*	mail_freq_id: 
+		mth
+*	dlv_addr_id: 
+		69767
+*	is_neutral: 
+		false
+*	mail_evt_id: 
+		
+*	mail_freq_ovr: 
+		false
+*	addr_id: 
+		69767
+*	id: 
+		221
+*	mail_action_id: 
+		mba$ccm_send
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	is_active: 
+		true
+*	minstr_templ_id: 
+		ccm_stmt_portf
+minstr_list
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	id: 
+		222
+*	mail_evt_id: 
+		
+*	minstr_templ_id: 
+		ccm_letter
+*	lang_id: 
+		
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_action_ovr: 
+		false
+*	dlv_addr_id: 
+		69767
+*	mail_freq_id: 
+		day
+*	is_neutral: 
+		false
+*	lang_src_id: 
+		from_bp
+*	mail_freq_ovr: 
+		false
+*	addr_id: 
+		69767
+*	is_active: 
+		true
+*	is_dflt: 
+		false
+minstr_list
+*	is_active: 
+		true
+*	is_dflt: 
+		false
+*	is_neutral: 
+		false
+*	mail_freq_id: 
+		day
+*	mail_freq_ovr: 
+		false
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	mail_action_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_adv
+*	addr_id: 
+		69810
+*	dlv_addr_id: 
+		69810
+*	id: 
+		223
+*	lang_src_id: 
+		from_bp
+*	mail_action_id: 
+		mba$ccm_send
+*	lang_id: 
+		
+*	mail_evt_id: 
+		
+minstr_list
+*	lang_id: 
+		
+*	lang_src_id: 
+		from_bp
+*	addr_id: 
+		69810
+*	is_dflt: 
+		false
+*	is_neutral: 
+		false
+*	mail_freq_ovr: 
+		false
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	minstr_templ_id: 
+		ccm_stmt_portf
+*	dlv_addr_id: 
+		69810
+*	is_active: 
+		true
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_freq_id: 
+		mth
+*	id: 
+		224
+*	mail_action_ovr: 
+		false
+*	mail_evt_id: 
+		
+minstr_list
+*	is_dflt: 
+		false
+*	mail_freq_ovr: 
+		false
+*	addr_id: 
+		69810
+*	mail_action_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_letter
+*	dlv_addr_id: 
+		69810
+*	lang_src_id: 
+		from_bp
+*	mail_evt_id: 
+		
+*	mail_freq_id: 
+		day
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	id: 
+		225
+*	is_active: 
+		true
+*	is_neutral: 
+		false
+*	lang_id: 
+		
+*	mail_action_id: 
+		mba$ccm_send
+minstr_list
+*	is_active: 
+		true
+*	mail_freq_id: 
+		day
+*	is_neutral: 
+		false
+*	lang_id: 
+		
+*	mail_action_ovr: 
+		false
+*	dlv_addr_id: 
+		69853
+*	id: 
+		226
+*	mail_evt_id: 
+		
+*	mail_freq_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_adv
+*	addr_id: 
+		69853
+*	is_dflt: 
+		false
+*	lang_src_id: 
+		from_bp
+*	mail_action_id: 
+		mba$ccm_send
+*	obj_rel_sub_type_id: 
+		mail_bp
+minstr_list
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_evt_id: 
+		
+*	mail_freq_id: 
+		mth
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	is_neutral: 
+		false
+*	lang_src_id: 
+		from_bp
+*	lang_id: 
+		
+*	mail_freq_ovr: 
+		false
+*	is_dflt: 
+		false
+*	mail_action_ovr: 
+		false
+*	dlv_addr_id: 
+		69853
+*	is_active: 
+		true
+*	minstr_templ_id: 
+		ccm_stmt_portf
+*	addr_id: 
+		69853
+*	id: 
+		227
+minstr_list
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_freq_ovr: 
+		false
+*	is_dflt: 
+		false
+*	is_neutral: 
+		false
+*	lang_id: 
+		
+*	mail_action_ovr: 
+		false
+*	mail_freq_id: 
+		day
+*	minstr_templ_id: 
+		ccm_letter
+*	dlv_addr_id: 
+		69853
+*	lang_src_id: 
+		from_bp
+*	mail_evt_id: 
+		
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	addr_id: 
+		69853
+*	id: 
+		228
+*	is_active: 
+		true
+minstr_list
+*	id: 
+		229
+*	is_neutral: 
+		false
+*	minstr_templ_id: 
+		ccm_adv
+*	lang_id: 
+		
+*	lang_src_id: 
+		from_bp
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_evt_id: 
+		
+*	dlv_addr_id: 
+		69917
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	mail_freq_id: 
+		day
+*	mail_freq_ovr: 
+		false
+*	addr_id: 
+		69917
+*	is_active: 
+		true
+*	is_dflt: 
+		false
+*	mail_action_ovr: 
+		false
+minstr_list
+*	dlv_addr_id: 
+		69917
+*	is_neutral: 
+		false
+*	mail_freq_ovr: 
+		false
+*	addr_id: 
+		69917
+*	is_active: 
+		true
+*	lang_id: 
+		
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	mail_action_ovr: 
+		false
+*	mail_evt_id: 
+		
+*	mail_freq_id: 
+		mth
+*	id: 
+		230
+*	is_dflt: 
+		false
+*	lang_src_id: 
+		from_bp
+*	mail_action_id: 
+		mba$ccm_send
+*	minstr_templ_id: 
+		ccm_stmt_portf
+minstr_list
+*	id: 
+		231
+*	is_active: 
+		true
+*	mail_evt_id: 
+		
+*	mail_freq_ovr: 
+		false
+*	mail_freq_id: 
+		day
+*	dlv_addr_id: 
+		69917
+*	lang_id: 
+		
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_action_ovr: 
+		false
+*	addr_id: 
+		69917
+*	is_dflt: 
+		false
+*	is_neutral: 
+		false
+*	lang_src_id: 
+		from_bp
+*	minstr_templ_id: 
+		ccm_letter
+*	obj_rel_sub_type_id: 
+		mail_bp
+minstr_list
+*	dlv_addr_id: 
+		69981
+*	lang_id: 
+		
+*	lang_src_id: 
+		from_bp
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	id: 
+		232
+*	is_active: 
+		true
+*	mail_freq_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_adv
+*	is_neutral: 
+		false
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_freq_id: 
+		day
+*	addr_id: 
+		69981
+*	is_dflt: 
+		false
+*	mail_action_ovr: 
+		false
+*	mail_evt_id: 
+		
+minstr_list
+*	addr_id: 
+		69981
+*	dlv_addr_id: 
+		69981
+*	is_neutral: 
+		false
+*	mail_action_id: 
+		mba$ccm_send
+*	id: 
+		233
+*	is_active: 
+		true
+*	lang_id: 
+		
+*	is_dflt: 
+		false
+*	lang_src_id: 
+		from_bp
+*	minstr_templ_id: 
+		ccm_stmt_portf
+*	mail_action_ovr: 
+		false
+*	mail_evt_id: 
+		
+*	mail_freq_id: 
+		mth
+*	mail_freq_ovr: 
+		false
+*	obj_rel_sub_type_id: 
+		mail_bp
+minstr_list
+*	id: 
+		234
+*	is_active: 
+		true
+*	is_neutral: 
+		false
+*	lang_src_id: 
+		from_bp
+*	mail_freq_ovr: 
+		false
+*	is_dflt: 
+		false
+*	mail_freq_id: 
+		day
+*	minstr_templ_id: 
+		ccm_letter
+*	addr_id: 
+		69981
+*	mail_action_id: 
+		mba$ccm_send
+*	dlv_addr_id: 
+		69981
+*	lang_id: 
+		
+*	mail_action_ovr: 
+		false
+*	mail_evt_id: 
+		
+*	obj_rel_sub_type_id: 
+		mail_bp
+minstr_list
+*	mail_freq_id: 
+		day
+*	minstr_templ_id: 
+		ccm_adv
+*	is_active: 
+		true
+*	lang_src_id: 
+		from_bp
+*	mail_evt_id: 
+		
+*	mail_action_ovr: 
+		false
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	dlv_addr_id: 
+		70045
+*	id: 
+		235
+*	is_dflt: 
+		false
+*	mail_freq_ovr: 
+		false
+*	addr_id: 
+		70045
+*	is_neutral: 
+		false
+*	mail_action_id: 
+		mba$ccm_send
+*	lang_id: 
+		
+minstr_list
+*	is_neutral: 
+		false
+*	is_dflt: 
+		false
+*	mail_evt_id: 
+		
+*	mail_freq_id: 
+		mth
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	mail_action_ovr: 
+		false
+*	is_active: 
+		true
+*	lang_id: 
+		
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_freq_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_stmt_portf
+*	id: 
+		236
+*	dlv_addr_id: 
+		70045
+*	lang_src_id: 
+		from_bp
+*	addr_id: 
+		70045
+minstr_list
+*	is_dflt: 
+		false
+*	is_neutral: 
+		false
+*	lang_id: 
+		
+*	mail_freq_id: 
+		day
+*	is_active: 
+		true
+*	addr_id: 
+		70045
+*	id: 
+		237
+*	lang_src_id: 
+		from_bp
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	mail_freq_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_letter
+*	dlv_addr_id: 
+		70045
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_action_ovr: 
+		false
+*	mail_evt_id: 
+		
+minstr_list
+*	minstr_templ_id: 
+		ccm_adv
+*	is_dflt: 
+		false
+*	is_neutral: 
+		false
+*	lang_src_id: 
+		from_bp
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_evt_id: 
+		
+*	addr_id: 
+		70109
+*	id: 
+		238
+*	lang_id: 
+		
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	mail_freq_id: 
+		day
+*	mail_freq_ovr: 
+		false
+*	dlv_addr_id: 
+		70109
+*	is_active: 
+		true
+*	mail_action_ovr: 
+		false
+minstr_list
+*	addr_id: 
+		70109
+*	dlv_addr_id: 
+		70109
+*	lang_src_id: 
+		from_bp
+*	mail_action_id: 
+		mba$ccm_send
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	is_active: 
+		true
+*	mail_action_ovr: 
+		false
+*	mail_freq_id: 
+		mth
+*	minstr_templ_id: 
+		ccm_stmt_portf
+*	lang_id: 
+		
+*	mail_evt_id: 
+		
+*	mail_freq_ovr: 
+		false
+*	id: 
+		239
+*	is_dflt: 
+		false
+*	is_neutral: 
+		false
+minstr_list
+*	addr_id: 
+		70109
+*	is_active: 
+		true
+*	is_dflt: 
+		false
+*	lang_id: 
+		
+*	mail_evt_id: 
+		
+*	mail_freq_ovr: 
+		false
+*	lang_src_id: 
+		from_bp
+*	mail_action_ovr: 
+		false
+*	dlv_addr_id: 
+		70109
+*	id: 
+		240
+*	is_neutral: 
+		false
+*	mail_action_id: 
+		mba$ccm_send
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	mail_freq_id: 
+		day
+*	minstr_templ_id: 
+		ccm_letter
+minstr_list
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	is_dflt: 
+		false
+*	mail_evt_id: 
+		
+*	mail_freq_ovr: 
+		false
+*	lang_src_id: 
+		from_bp
+*	mail_action_id: 
+		mba$ccm_send
+*	addr_id: 
+		70152
+*	dlv_addr_id: 
+		70152
+*	is_neutral: 
+		false
+*	mail_action_ovr: 
+		false
+*	mail_freq_id: 
+		day
+*	minstr_templ_id: 
+		ccm_adv
+*	id: 
+		241
+*	is_active: 
+		true
+*	lang_id: 
+		
+minstr_list
+*	minstr_templ_id: 
+		ccm_stmt_portf
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	is_dflt: 
+		false
+*	is_neutral: 
+		false
+*	lang_id: 
+		
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_action_ovr: 
+		false
+*	mail_freq_id: 
+		mth
+*	addr_id: 
+		70152
+*	id: 
+		242
+*	is_active: 
+		true
+*	lang_src_id: 
+		from_bp
+*	mail_evt_id: 
+		
+*	dlv_addr_id: 
+		70152
+*	mail_freq_ovr: 
+		false
+minstr_list
+*	addr_id: 
+		70152
+*	is_neutral: 
+		false
+*	mail_evt_id: 
+		
+*	is_active: 
+		true
+*	lang_id: 
+		
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_freq_ovr: 
+		false
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	dlv_addr_id: 
+		70152
+*	id: 
+		243
+*	is_dflt: 
+		false
+*	lang_src_id: 
+		from_bp
+*	mail_freq_id: 
+		day
+*	minstr_templ_id: 
+		ccm_letter
+*	mail_action_ovr: 
+		false
+minstr_list
+*	is_neutral: 
+		false
+*	mail_freq_id: 
+		day
+*	mail_freq_ovr: 
+		false
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	addr_id: 
+		70216
+*	id: 
+		244
+*	is_dflt: 
+		false
+*	lang_id: 
+		
+*	lang_src_id: 
+		from_bp
+*	is_active: 
+		true
+*	mail_action_id: 
+		mba$ccm_send
+*	minstr_templ_id: 
+		ccm_adv
+*	dlv_addr_id: 
+		70216
+*	mail_action_ovr: 
+		false
+*	mail_evt_id: 
+		
+minstr_list
+*	mail_action_ovr: 
+		false
+*	mail_freq_ovr: 
+		false
+*	id: 
+		245
+*	is_active: 
+		true
+*	is_neutral: 
+		false
+*	lang_id: 
+		
+*	lang_src_id: 
+		from_bp
+*	minstr_templ_id: 
+		ccm_stmt_portf
+*	addr_id: 
+		70216
+*	is_dflt: 
+		false
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_evt_id: 
+		
+*	mail_freq_id: 
+		mth
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	dlv_addr_id: 
+		70216
+minstr_list
+*	mail_evt_id: 
+		
+*	mail_freq_ovr: 
+		false
+*	is_neutral: 
+		false
+*	lang_id: 
+		
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_action_ovr: 
+		false
+*	id: 
+		246
+*	is_active: 
+		true
+*	lang_src_id: 
+		from_bp
+*	is_dflt: 
+		false
+*	minstr_templ_id: 
+		ccm_letter
+*	addr_id: 
+		70216
+*	dlv_addr_id: 
+		70216
+*	mail_freq_id: 
+		day
+*	obj_rel_sub_type_id: 
+		mail_bp
+minstr_list
+*	is_neutral: 
+		false
+*	lang_id: 
+		
+*	lang_src_id: 
+		from_bp
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_freq_ovr: 
+		false
+*	is_active: 
+		true
+*	is_dflt: 
+		false
+*	mail_evt_id: 
+		
+*	minstr_templ_id: 
+		ccm_adv
+*	mail_freq_id: 
+		day
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	dlv_addr_id: 
+		70280
+*	mail_action_ovr: 
+		false
+*	addr_id: 
+		70280
+*	id: 
+		247
+minstr_list
+*	dlv_addr_id: 
+		70280
+*	id: 
+		248
+*	is_active: 
+		true
+*	lang_src_id: 
+		from_bp
+*	mail_freq_ovr: 
+		false
+*	addr_id: 
+		70280
+*	is_neutral: 
+		false
+*	lang_id: 
+		
+*	mail_action_ovr: 
+		false
+*	mail_evt_id: 
+		
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	is_dflt: 
+		false
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_freq_id: 
+		mth
+*	minstr_templ_id: 
+		ccm_stmt_portf
+minstr_list
+*	mail_freq_ovr: 
+		false
+*	is_dflt: 
+		false
+*	lang_src_id: 
+		from_bp
+*	mail_evt_id: 
+		
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	id: 
+		249
+*	is_active: 
+		true
+*	mail_freq_id: 
+		day
+*	minstr_templ_id: 
+		ccm_letter
+*	dlv_addr_id: 
+		70280
+*	lang_id: 
+		
+*	mail_action_id: 
+		mba$ccm_send
+*	addr_id: 
+		70280
+*	is_neutral: 
+		false
+*	mail_action_ovr: 
+		false
+minstr_list
+*	mail_action_id: 
+		mba$ccm_send
+*	minstr_templ_id: 
+		ccm_adv
+*	addr_id: 
+		70323
+*	is_neutral: 
+		false
+*	is_dflt: 
+		false
+*	mail_freq_ovr: 
+		false
+*	id: 
+		250
+*	mail_action_ovr: 
+		false
+*	lang_id: 
+		
+*	lang_src_id: 
+		from_bp
+*	mail_evt_id: 
+		
+*	mail_freq_id: 
+		day
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	dlv_addr_id: 
+		70323
+*	is_active: 
+		true
+minstr_list
+*	addr_id: 
+		70323
+*	is_active: 
+		true
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_freq_id: 
+		mth
+*	mail_freq_ovr: 
+		false
+*	is_dflt: 
+		false
+*	lang_id: 
+		
+*	mail_evt_id: 
+		
+*	dlv_addr_id: 
+		70323
+*	lang_src_id: 
+		from_bp
+*	minstr_templ_id: 
+		ccm_stmt_portf
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	id: 
+		251
+*	is_neutral: 
+		false
+*	mail_action_ovr: 
+		false
+minstr_list
+*	is_active: 
+		true
+*	mail_freq_id: 
+		day
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	id: 
+		252
+*	is_dflt: 
+		false
+*	is_neutral: 
+		false
+*	mail_action_ovr: 
+		false
+*	mail_evt_id: 
+		
+*	mail_freq_ovr: 
+		false
+*	addr_id: 
+		70323
+*	dlv_addr_id: 
+		70323
+*	minstr_templ_id: 
+		ccm_letter
+*	mail_action_id: 
+		mba$ccm_send
+*	lang_id: 
+		
+*	lang_src_id: 
+		from_bp
+minstr_list
+*	is_dflt: 
+		false
+*	is_neutral: 
+		false
+*	mail_action_ovr: 
+		false
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	id: 
+		253
+*	mail_freq_id: 
+		day
+*	mail_freq_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_adv
+*	addr_id: 
+		70363
+*	lang_id: 
+		
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_evt_id: 
+		
+*	is_active: 
+		true
+*	lang_src_id: 
+		from_bp
+*	dlv_addr_id: 
+		70363
+minstr_list
+*	mail_freq_id: 
+		mth
+*	minstr_templ_id: 
+		ccm_stmt_portf
+*	mail_action_ovr: 
+		false
+*	mail_evt_id: 
+		
+*	id: 
+		254
+*	is_active: 
+		true
+*	mail_freq_ovr: 
+		false
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	addr_id: 
+		70363
+*	dlv_addr_id: 
+		70363
+*	mail_action_id: 
+		mba$ccm_send
+*	is_neutral: 
+		false
+*	lang_id: 
+		
+*	is_dflt: 
+		false
+*	lang_src_id: 
+		from_bp
+minstr_list
+*	mail_action_ovr: 
+		false
+*	id: 
+		255
+*	is_active: 
+		true
+*	lang_id: 
+		
+*	mail_evt_id: 
+		
+*	mail_freq_ovr: 
+		false
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	is_neutral: 
+		false
+*	lang_src_id: 
+		from_bp
+*	mail_action_id: 
+		mba$ccm_send
+*	minstr_templ_id: 
+		ccm_letter
+*	addr_id: 
+		70363
+*	is_dflt: 
+		false
+*	mail_freq_id: 
+		day
+*	dlv_addr_id: 
+		70363
+minstr_list
+*	addr_id: 
+		70406
+*	is_active: 
+		true
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_evt_id: 
+		
+*	lang_id: 
+		
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	dlv_addr_id: 
+		70406
+*	is_neutral: 
+		false
+*	mail_freq_id: 
+		day
+*	mail_freq_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_adv
+*	id: 
+		256
+*	is_dflt: 
+		false
+*	lang_src_id: 
+		from_bp
+*	mail_action_ovr: 
+		false
+minstr_list
+*	mail_action_ovr: 
+		false
+*	mail_freq_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_stmt_portf
+*	mail_action_id: 
+		mba$ccm_send
+*	dlv_addr_id: 
+		70406
+*	is_dflt: 
+		false
+*	lang_id: 
+		
+*	lang_src_id: 
+		from_bp
+*	addr_id: 
+		70406
+*	is_neutral: 
+		false
+*	mail_evt_id: 
+		
+*	id: 
+		257
+*	is_active: 
+		true
+*	mail_freq_id: 
+		mth
+*	obj_rel_sub_type_id: 
+		mail_bp
+minstr_list
+*	mail_evt_id: 
+		
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	is_neutral: 
+		false
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_action_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_letter
+*	addr_id: 
+		70406
+*	id: 
+		258
+*	is_dflt: 
+		false
+*	lang_src_id: 
+		from_bp
+*	dlv_addr_id: 
+		70406
+*	is_active: 
+		true
+*	lang_id: 
+		
+*	mail_freq_id: 
+		day
+*	mail_freq_ovr: 
+		false
+minstr_list
+*	minstr_templ_id: 
+		ccm_adv
+*	is_neutral: 
+		false
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_action_ovr: 
+		false
+*	id: 
+		259
+*	mail_freq_ovr: 
+		false
+*	addr_id: 
+		70449
+*	is_active: 
+		true
+*	mail_freq_id: 
+		day
+*	lang_src_id: 
+		from_bp
+*	mail_evt_id: 
+		
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	dlv_addr_id: 
+		70449
+*	is_dflt: 
+		false
+*	lang_id: 
+		
+minstr_list
+*	is_dflt: 
+		false
+*	mail_freq_ovr: 
+		false
+*	lang_src_id: 
+		from_bp
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_action_ovr: 
+		false
+*	addr_id: 
+		70449
+*	id: 
+		260
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	mail_evt_id: 
+		
+*	minstr_templ_id: 
+		ccm_stmt_portf
+*	is_neutral: 
+		false
+*	lang_id: 
+		
+*	mail_freq_id: 
+		mth
+*	dlv_addr_id: 
+		70449
+*	is_active: 
+		true
+minstr_list
+*	mail_action_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_letter
+*	mail_freq_ovr: 
+		false
+*	id: 
+		261
+*	lang_src_id: 
+		from_bp
+*	mail_action_id: 
+		mba$ccm_send
+*	is_dflt: 
+		false
+*	mail_freq_id: 
+		day
+*	addr_id: 
+		70449
+*	dlv_addr_id: 
+		70449
+*	is_active: 
+		true
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	is_neutral: 
+		false
+*	lang_id: 
+		
+*	mail_evt_id: 
+		
+minstr_list
+*	id: 
+		262
+*	is_dflt: 
+		false
+*	is_neutral: 
+		false
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_action_ovr: 
+		false
+*	dlv_addr_id: 
+		70492
+*	is_active: 
+		true
+*	mail_freq_id: 
+		day
+*	minstr_templ_id: 
+		ccm_adv
+*	lang_id: 
+		
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	addr_id: 
+		70492
+*	lang_src_id: 
+		from_bp
+*	mail_evt_id: 
+		
+*	mail_freq_ovr: 
+		false
+minstr_list
+*	addr_id: 
+		70492
+*	is_active: 
+		true
+*	is_neutral: 
+		false
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	id: 
+		263
+*	is_dflt: 
+		false
+*	lang_id: 
+		
+*	mail_action_ovr: 
+		false
+*	mail_evt_id: 
+		
+*	lang_src_id: 
+		from_bp
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_freq_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_stmt_portf
+*	dlv_addr_id: 
+		70492
+*	mail_freq_id: 
+		mth
+minstr_list
+*	mail_freq_id: 
+		day
+*	is_neutral: 
+		false
+*	is_active: 
+		true
+*	is_dflt: 
+		false
+*	id: 
+		264
+*	dlv_addr_id: 
+		70492
+*	lang_id: 
+		
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_action_ovr: 
+		false
+*	mail_evt_id: 
+		
+*	mail_freq_ovr: 
+		false
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	addr_id: 
+		70492
+*	minstr_templ_id: 
+		ccm_letter
+*	lang_src_id: 
+		from_bp
+minstr_list
+*	is_neutral: 
+		false
+*	mail_freq_id: 
+		day
+*	minstr_templ_id: 
+		ccm_adv
+*	dlv_addr_id: 
+		70556
+*	is_active: 
+		true
+*	lang_src_id: 
+		from_bp
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_action_ovr: 
+		false
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	mail_evt_id: 
+		
+*	addr_id: 
+		70556
+*	id: 
+		265
+*	is_dflt: 
+		false
+*	lang_id: 
+		
+*	mail_freq_ovr: 
+		false
+minstr_list
+*	addr_id: 
+		70556
+*	lang_src_id: 
+		from_bp
+*	mail_evt_id: 
+		
+*	mail_freq_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_stmt_portf
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	dlv_addr_id: 
+		70556
+*	is_active: 
+		true
+*	is_dflt: 
+		false
+*	lang_id: 
+		
+*	mail_action_ovr: 
+		false
+*	mail_freq_id: 
+		mth
+*	is_neutral: 
+		false
+*	id: 
+		266
+*	mail_action_id: 
+		mba$ccm_send
+minstr_list
+*	minstr_templ_id: 
+		ccm_letter
+*	addr_id: 
+		70556
+*	lang_id: 
+		
+*	mail_freq_id: 
+		day
+*	mail_action_ovr: 
+		false
+*	dlv_addr_id: 
+		70556
+*	is_neutral: 
+		false
+*	lang_src_id: 
+		from_bp
+*	id: 
+		267
+*	mail_freq_ovr: 
+		false
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	mail_evt_id: 
+		
+*	is_active: 
+		true
+*	is_dflt: 
+		false
+*	mail_action_id: 
+		mba$ccm_send
+minstr_list
+*	mail_freq_id: 
+		day
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_action_ovr: 
+		false
+*	addr_id: 
+		70620
+*	dlv_addr_id: 
+		70620
+*	id: 
+		268
+*	is_active: 
+		true
+*	is_neutral: 
+		false
+*	lang_src_id: 
+		from_bp
+*	mail_evt_id: 
+		
+*	minstr_templ_id: 
+		ccm_adv
+*	is_dflt: 
+		false
+*	lang_id: 
+		
+*	mail_freq_ovr: 
+		false
+*	obj_rel_sub_type_id: 
+		mail_bp
+minstr_list
+*	addr_id: 
+		70620
+*	id: 
+		269
+*	lang_src_id: 
+		from_bp
+*	mail_evt_id: 
+		
+*	mail_freq_ovr: 
+		false
+*	is_dflt: 
+		false
+*	is_neutral: 
+		false
+*	lang_id: 
+		
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_freq_id: 
+		mth
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	mail_action_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_stmt_portf
+*	dlv_addr_id: 
+		70620
+*	is_active: 
+		true
+minstr_list
+*	lang_id: 
+		
+*	mail_freq_id: 
+		day
+*	mail_action_ovr: 
+		false
+*	mail_freq_ovr: 
+		false
+*	is_dflt: 
+		false
+*	is_neutral: 
+		false
+*	dlv_addr_id: 
+		70620
+*	is_active: 
+		true
+*	lang_src_id: 
+		from_bp
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_evt_id: 
+		
+*	minstr_templ_id: 
+		ccm_letter
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	addr_id: 
+		70620
+*	id: 
+		270
+minstr_list
+*	addr_id: 
+		70663
+*	is_dflt: 
+		false
+*	mail_freq_ovr: 
+		false
+*	is_active: 
+		true
+*	lang_src_id: 
+		from_bp
+*	mail_evt_id: 
+		
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	lang_id: 
+		
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_action_ovr: 
+		false
+*	mail_freq_id: 
+		day
+*	dlv_addr_id: 
+		70663
+*	id: 
+		271
+*	is_neutral: 
+		false
+*	minstr_templ_id: 
+		ccm_adv
+minstr_list
+*	dlv_addr_id: 
+		70663
+*	is_dflt: 
+		false
+*	lang_id: 
+		
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_action_ovr: 
+		false
+*	is_neutral: 
+		false
+*	mail_freq_ovr: 
+		false
+*	lang_src_id: 
+		from_bp
+*	mail_evt_id: 
+		
+*	mail_freq_id: 
+		mth
+*	addr_id: 
+		70663
+*	id: 
+		272
+*	is_active: 
+		true
+*	minstr_templ_id: 
+		ccm_stmt_portf
+*	obj_rel_sub_type_id: 
+		mail_bp
+minstr_list
+*	mail_freq_id: 
+		day
+*	addr_id: 
+		70663
+*	dlv_addr_id: 
+		70663
+*	id: 
+		273
+*	is_dflt: 
+		false
+*	is_neutral: 
+		false
+*	mail_action_ovr: 
+		false
+*	mail_freq_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_letter
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	is_active: 
+		true
+*	lang_src_id: 
+		from_bp
+*	mail_action_id: 
+		mba$ccm_send
+*	lang_id: 
+		
+*	mail_evt_id: 
+		
+minstr_list
+*	id: 
+		276
+*	mail_evt_id: 
+		
+*	addr_id: 
+		70708
+*	is_dflt: 
+		false
+*	lang_src_id: 
+		from_bp
+*	mail_freq_ovr: 
+		false
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	is_active: 
+		true
+*	lang_id: 
+		
+*	mail_action_id: 
+		mba$ccm_send
+*	minstr_templ_id: 
+		ccm_letter
+*	dlv_addr_id: 
+		70708
+*	mail_action_ovr: 
+		false
+*	mail_freq_id: 
+		day
+*	is_neutral: 
+		false
+minstr_list
+*	is_dflt: 
+		false
+*	mail_evt_id: 
+		
+*	lang_id: 
+		
+*	mail_freq_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_adv
+*	addr_id: 
+		70713
+*	id: 
+		274
+*	is_active: 
+		true
+*	mail_action_ovr: 
+		false
+*	mail_freq_id: 
+		day
+*	mail_action_id: 
+		mba$ccm_send
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	dlv_addr_id: 
+		70713
+*	is_neutral: 
+		false
+*	lang_src_id: 
+		from_bp
+minstr_list
+*	dlv_addr_id: 
+		70713
+*	is_active: 
+		true
+*	is_dflt: 
+		false
+*	lang_id: 
+		
+*	mail_freq_id: 
+		mth
+*	addr_id: 
+		70713
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_evt_id: 
+		
+*	mail_freq_ovr: 
+		false
+*	lang_src_id: 
+		from_bp
+*	minstr_templ_id: 
+		ccm_stmt_portf
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	id: 
+		275
+*	is_neutral: 
+		false
+*	mail_action_ovr: 
+		false
+minstr_list
+*	addr_id: 
+		70780
+*	lang_id: 
+		
+*	lang_src_id: 
+		from_bp
+*	mail_action_id: 
+		mba$ccm_send
+*	is_dflt: 
+		false
+*	mail_freq_ovr: 
+		false
+*	dlv_addr_id: 
+		70780
+*	is_active: 
+		true
+*	is_neutral: 
+		false
+*	mail_action_ovr: 
+		false
+*	mail_evt_id: 
+		
+*	id: 
+		277
+*	mail_freq_id: 
+		day
+*	minstr_templ_id: 
+		ccm_adv
+*	obj_rel_sub_type_id: 
+		mail_bp
+minstr_list
+*	mail_freq_ovr: 
+		false
+*	is_active: 
+		true
+*	is_dflt: 
+		false
+*	is_neutral: 
+		false
+*	id: 
+		278
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	addr_id: 
+		70780
+*	dlv_addr_id: 
+		70780
+*	lang_id: 
+		
+*	lang_src_id: 
+		from_bp
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_action_ovr: 
+		false
+*	mail_evt_id: 
+		
+*	mail_freq_id: 
+		mth
+*	minstr_templ_id: 
+		ccm_stmt_portf
+minstr_list
+*	mail_action_ovr: 
+		false
+*	mail_evt_id: 
+		
+*	mail_freq_ovr: 
+		false
+*	is_dflt: 
+		false
+*	mail_action_id: 
+		mba$ccm_send
+*	lang_id: 
+		
+*	minstr_templ_id: 
+		ccm_letter
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	addr_id: 
+		70780
+*	is_neutral: 
+		false
+*	is_active: 
+		true
+*	lang_src_id: 
+		from_bp
+*	mail_freq_id: 
+		day
+*	dlv_addr_id: 
+		70780
+*	id: 
+		279
+minstr_list
+*	lang_id: 
+		
+*	lang_src_id: 
+		from_bp
+*	mail_freq_id: 
+		day
+*	mail_evt_id: 
+		
+*	mail_freq_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_adv
+*	addr_id: 
+		70822
+*	id: 
+		280
+*	is_active: 
+		true
+*	is_neutral: 
+		false
+*	is_dflt: 
+		false
+*	mail_action_ovr: 
+		false
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	dlv_addr_id: 
+		70822
+*	mail_action_id: 
+		mba$ccm_send
+minstr_list
+*	is_dflt: 
+		false
+*	is_neutral: 
+		false
+*	lang_id: 
+		
+*	mail_action_id: 
+		mba$ccm_send
+*	dlv_addr_id: 
+		70822
+*	is_active: 
+		true
+*	mail_evt_id: 
+		
+*	mail_freq_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_stmt_portf
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	id: 
+		281
+*	lang_src_id: 
+		from_bp
+*	mail_action_ovr: 
+		false
+*	addr_id: 
+		70822
+*	mail_freq_id: 
+		mth
+minstr_list
+*	is_active: 
+		true
+*	lang_src_id: 
+		from_bp
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_action_ovr: 
+		false
+*	mail_evt_id: 
+		
+*	is_dflt: 
+		false
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	addr_id: 
+		70822
+*	lang_id: 
+		
+*	mail_freq_ovr: 
+		false
+*	dlv_addr_id: 
+		70822
+*	id: 
+		282
+*	is_neutral: 
+		false
+*	mail_freq_id: 
+		day
+*	minstr_templ_id: 
+		ccm_letter
+minstr_list
+*	dlv_addr_id: 
+		70865
+*	is_active: 
+		true
+*	addr_id: 
+		70865
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_evt_id: 
+		
+*	mail_freq_id: 
+		day
+*	is_neutral: 
+		false
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	mail_freq_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_adv
+*	id: 
+		283
+*	is_dflt: 
+		false
+*	lang_id: 
+		
+*	lang_src_id: 
+		from_bp
+*	mail_action_ovr: 
+		false
+minstr_list
+*	is_dflt: 
+		false
+*	mail_evt_id: 
+		
+*	mail_freq_ovr: 
+		false
+*	id: 
+		284
+*	dlv_addr_id: 
+		70865
+*	lang_id: 
+		
+*	minstr_templ_id: 
+		ccm_stmt_portf
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	addr_id: 
+		70865
+*	is_neutral: 
+		false
+*	lang_src_id: 
+		from_bp
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_action_ovr: 
+		false
+*	mail_freq_id: 
+		mth
+*	is_active: 
+		true
+minstr_list
+*	id: 
+		285
+*	is_neutral: 
+		false
+*	mail_evt_id: 
+		
+*	addr_id: 
+		70865
+*	lang_id: 
+		
+*	mail_freq_ovr: 
+		false
+*	dlv_addr_id: 
+		70865
+*	mail_freq_id: 
+		day
+*	minstr_templ_id: 
+		ccm_letter
+*	is_active: 
+		true
+*	is_dflt: 
+		false
+*	lang_src_id: 
+		from_bp
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_action_ovr: 
+		false
+*	obj_rel_sub_type_id: 
+		mail_bp
+minstr_list
+*	mail_action_ovr: 
+		false
+*	addr_id: 
+		70908
+*	dlv_addr_id: 
+		70908
+*	is_active: 
+		true
+*	mail_action_id: 
+		mba$ccm_send
+*	lang_src_id: 
+		from_bp
+*	mail_freq_id: 
+		day
+*	mail_freq_ovr: 
+		false
+*	is_dflt: 
+		false
+*	is_neutral: 
+		false
+*	lang_id: 
+		
+*	mail_evt_id: 
+		
+*	id: 
+		286
+*	minstr_templ_id: 
+		ccm_adv
+*	obj_rel_sub_type_id: 
+		mail_bp
+minstr_list
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	is_neutral: 
+		false
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_freq_id: 
+		mth
+*	mail_freq_ovr: 
+		false
+*	lang_src_id: 
+		from_bp
+*	dlv_addr_id: 
+		70908
+*	id: 
+		287
+*	is_active: 
+		true
+*	lang_id: 
+		
+*	mail_evt_id: 
+		
+*	addr_id: 
+		70908
+*	mail_action_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_stmt_portf
+*	is_dflt: 
+		false
+minstr_list
+*	is_active: 
+		true
+*	is_neutral: 
+		false
+*	lang_src_id: 
+		from_bp
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_evt_id: 
+		
+*	mail_freq_id: 
+		day
+*	addr_id: 
+		70908
+*	id: 
+		288
+*	mail_action_ovr: 
+		false
+*	mail_freq_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_letter
+*	is_dflt: 
+		false
+*	lang_id: 
+		
+*	dlv_addr_id: 
+		70908
+*	obj_rel_sub_type_id: 
+		mail_bp
+minstr_list
+*	is_active: 
+		true
+*	is_neutral: 
+		false
+*	lang_src_id: 
+		from_bp
+*	mail_action_ovr: 
+		false
+*	addr_id: 
+		70951
+*	dlv_addr_id: 
+		70951
+*	mail_freq_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_adv
+*	id: 
+		289
+*	lang_id: 
+		
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_evt_id: 
+		
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	is_dflt: 
+		false
+*	mail_freq_id: 
+		day
+minstr_list
+*	id: 
+		290
+*	is_dflt: 
+		false
+*	minstr_templ_id: 
+		ccm_stmt_portf
+*	dlv_addr_id: 
+		70951
+*	is_active: 
+		true
+*	is_neutral: 
+		false
+*	mail_action_ovr: 
+		false
+*	mail_freq_id: 
+		mth
+*	mail_freq_ovr: 
+		false
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	addr_id: 
+		70951
+*	lang_src_id: 
+		from_bp
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_evt_id: 
+		
+*	lang_id: 
+		
+minstr_list
+*	mail_action_ovr: 
+		false
+*	mail_freq_ovr: 
+		false
+*	dlv_addr_id: 
+		70951
+*	is_active: 
+		true
+*	is_dflt: 
+		false
+*	is_neutral: 
+		false
+*	id: 
+		291
+*	lang_id: 
+		
+*	lang_src_id: 
+		from_bp
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_evt_id: 
+		
+*	minstr_templ_id: 
+		ccm_letter
+*	addr_id: 
+		70951
+*	mail_freq_id: 
+		day
+*	obj_rel_sub_type_id: 
+		mail_bp
+minstr_list
+*	addr_id: 
+		70993
+*	mail_freq_ovr: 
+		false
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	is_dflt: 
+		false
+*	lang_id: 
+		
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_evt_id: 
+		
+*	mail_freq_id: 
+		day
+*	minstr_templ_id: 
+		ccm_adv
+*	dlv_addr_id: 
+		70993
+*	id: 
+		292
+*	is_active: 
+		true
+*	is_neutral: 
+		false
+*	lang_src_id: 
+		from_bp
+*	mail_action_ovr: 
+		false
+minstr_list
+*	addr_id: 
+		70993
+*	id: 
+		293
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_action_ovr: 
+		false
+*	mail_evt_id: 
+		
+*	lang_id: 
+		
+*	minstr_templ_id: 
+		ccm_stmt_portf
+*	dlv_addr_id: 
+		70993
+*	is_active: 
+		true
+*	lang_src_id: 
+		from_bp
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	is_dflt: 
+		false
+*	is_neutral: 
+		false
+*	mail_freq_id: 
+		mth
+*	mail_freq_ovr: 
+		false
+minstr_list
+*	mail_action_ovr: 
+		false
+*	mail_evt_id: 
+		
+*	mail_freq_ovr: 
+		false
+*	id: 
+		294
+*	mail_action_id: 
+		mba$ccm_send
+*	addr_id: 
+		70993
+*	is_neutral: 
+		false
+*	lang_id: 
+		
+*	mail_freq_id: 
+		day
+*	minstr_templ_id: 
+		ccm_letter
+*	is_active: 
+		true
+*	is_dflt: 
+		false
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	dlv_addr_id: 
+		70993
+*	lang_src_id: 
+		from_bp
+minstr_list
+*	addr_id: 
+		71036
+*	is_active: 
+		true
+*	lang_src_id: 
+		from_bp
+*	mail_freq_id: 
+		day
+*	mail_freq_ovr: 
+		false
+*	dlv_addr_id: 
+		71036
+*	is_dflt: 
+		false
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	id: 
+		295
+*	minstr_templ_id: 
+		ccm_adv
+*	is_neutral: 
+		false
+*	lang_id: 
+		
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_action_ovr: 
+		false
+*	mail_evt_id: 
+		
+minstr_list
+*	is_active: 
+		true
+*	minstr_templ_id: 
+		ccm_stmt_portf
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	is_dflt: 
+		false
+*	lang_src_id: 
+		from_bp
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_freq_id: 
+		mth
+*	dlv_addr_id: 
+		71036
+*	id: 
+		296
+*	lang_id: 
+		
+*	mail_evt_id: 
+		
+*	mail_freq_ovr: 
+		false
+*	addr_id: 
+		71036
+*	is_neutral: 
+		false
+*	mail_action_ovr: 
+		false
+minstr_list
+*	minstr_templ_id: 
+		ccm_letter
+*	id: 
+		297
+*	lang_id: 
+		
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_evt_id: 
+		
+*	mail_freq_id: 
+		day
+*	dlv_addr_id: 
+		71036
+*	is_active: 
+		true
+*	lang_src_id: 
+		from_bp
+*	mail_action_ovr: 
+		false
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	addr_id: 
+		71036
+*	is_dflt: 
+		false
+*	is_neutral: 
+		false
+*	mail_freq_ovr: 
+		false
+minstr_list
+*	is_active: 
+		true
+*	is_neutral: 
+		false
+*	lang_src_id: 
+		from_bp
+*	mail_action_ovr: 
+		false
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	is_dflt: 
+		false
+*	mail_evt_id: 
+		
+*	mail_freq_id: 
+		day
+*	mail_freq_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_adv
+*	dlv_addr_id: 
+		71079
+*	id: 
+		298
+*	addr_id: 
+		71079
+*	lang_id: 
+		
+*	mail_action_id: 
+		mba$ccm_send
+minstr_list
+*	addr_id: 
+		71079
+*	lang_src_id: 
+		from_bp
+*	mail_action_id: 
+		mba$ccm_send
+*	lang_id: 
+		
+*	mail_action_ovr: 
+		false
+*	mail_evt_id: 
+		
+*	dlv_addr_id: 
+		71079
+*	id: 
+		299
+*	mail_freq_id: 
+		mth
+*	minstr_templ_id: 
+		ccm_stmt_portf
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	is_active: 
+		true
+*	is_dflt: 
+		false
+*	is_neutral: 
+		false
+*	mail_freq_ovr: 
+		false
+minstr_list
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_freq_ovr: 
+		false
+*	id: 
+		300
+*	lang_src_id: 
+		from_bp
+*	is_dflt: 
+		false
+*	lang_id: 
+		
+*	mail_evt_id: 
+		
+*	minstr_templ_id: 
+		ccm_letter
+*	dlv_addr_id: 
+		71079
+*	is_active: 
+		true
+*	mail_action_ovr: 
+		false
+*	mail_freq_id: 
+		day
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	addr_id: 
+		71079
+*	is_neutral: 
+		false
+minstr_list
+*	mail_action_ovr: 
+		false
+*	mail_evt_id: 
+		
+*	lang_id: 
+		
+*	lang_src_id: 
+		from_bp
+*	mail_freq_id: 
+		day
+*	mail_freq_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_adv
+*	addr_id: 
+		71122
+*	is_active: 
+		true
+*	is_neutral: 
+		false
+*	dlv_addr_id: 
+		71122
+*	id: 
+		301
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	is_dflt: 
+		false
+*	mail_action_id: 
+		mba$ccm_send
+minstr_list
+*	mail_evt_id: 
+		
+*	mail_freq_id: 
+		mth
+*	addr_id: 
+		71122
+*	id: 
+		302
+*	is_neutral: 
+		false
+*	mail_action_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_stmt_portf
+*	dlv_addr_id: 
+		71122
+*	is_active: 
+		true
+*	is_dflt: 
+		false
+*	lang_src_id: 
+		from_bp
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_freq_ovr: 
+		false
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	lang_id: 
+		
+minstr_list
+*	dlv_addr_id: 
+		71122
+*	minstr_templ_id: 
+		ccm_letter
+*	mail_action_ovr: 
+		false
+*	mail_freq_ovr: 
+		false
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	addr_id: 
+		71122
+*	lang_id: 
+		
+*	mail_action_id: 
+		mba$ccm_send
+*	is_active: 
+		true
+*	is_dflt: 
+		false
+*	lang_src_id: 
+		from_bp
+*	mail_evt_id: 
+		
+*	mail_freq_id: 
+		day
+*	id: 
+		303
+*	is_neutral: 
+		false
+minstr_list
+*	is_dflt: 
+		false
+*	lang_id: 
+		
+*	mail_evt_id: 
+		
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	is_neutral: 
+		false
+*	mail_action_ovr: 
+		false
+*	mail_freq_id: 
+		day
+*	is_active: 
+		true
+*	lang_src_id: 
+		from_bp
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_freq_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_adv
+*	addr_id: 
+		69853
+*	dlv_addr_id: 
+		69853
+*	id: 
+		304
+minstr_list
+*	is_neutral: 
+		false
+*	lang_id: 
+		
+*	mail_freq_id: 
+		mth
+*	mail_action_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_stmt_portf
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	is_active: 
+		true
+*	is_dflt: 
+		false
+*	lang_src_id: 
+		from_bp
+*	addr_id: 
+		69853
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_freq_ovr: 
+		false
+*	dlv_addr_id: 
+		69853
+*	id: 
+		305
+*	mail_evt_id: 
+		
+minstr_list
+*	is_dflt: 
+		false
+*	lang_id: 
+		
+*	lang_src_id: 
+		from_bp
+*	mail_action_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_adv
+*	mail_freq_id: 
+		day
+*	mail_freq_ovr: 
+		false
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	addr_id: 
+		71201
+*	dlv_addr_id: 
+		71201
+*	is_neutral: 
+		false
+*	mail_evt_id: 
+		
+*	id: 
+		306
+*	is_active: 
+		true
+*	mail_action_id: 
+		mba$ccm_send
+minstr_list
+*	is_dflt: 
+		false
+*	is_neutral: 
+		false
+*	lang_src_id: 
+		from_bp
+*	mail_freq_id: 
+		mth
+*	addr_id: 
+		71201
+*	mail_freq_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_stmt_portf
+*	id: 
+		307
+*	mail_action_ovr: 
+		false
+*	is_active: 
+		true
+*	lang_id: 
+		
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_evt_id: 
+		
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	dlv_addr_id: 
+		71201
+minstr_list
+*	lang_id: 
+		
+*	lang_src_id: 
+		from_bp
+*	mail_action_ovr: 
+		false
+*	mail_freq_ovr: 
+		false
+*	id: 
+		308
+*	is_active: 
+		true
+*	dlv_addr_id: 
+		71201
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_evt_id: 
+		
+*	addr_id: 
+		71201
+*	is_dflt: 
+		false
+*	is_neutral: 
+		false
+*	mail_freq_id: 
+		day
+*	minstr_templ_id: 
+		ccm_letter
+*	obj_rel_sub_type_id: 
+		mail_bp
+minstr_list
+*	is_neutral: 
+		false
+*	lang_src_id: 
+		from_bp
+*	mail_action_ovr: 
+		false
+*	addr_id: 
+		71240
+*	dlv_addr_id: 
+		71240
+*	lang_id: 
+		
+*	mail_action_id: 
+		mba$ccm_send
+*	id: 
+		309
+*	is_active: 
+		true
+*	mail_freq_ovr: 
+		false
+*	is_dflt: 
+		false
+*	mail_evt_id: 
+		
+*	mail_freq_id: 
+		day
+*	minstr_templ_id: 
+		ccm_adv
+*	obj_rel_sub_type_id: 
+		mail_bp
+minstr_list
+*	dlv_addr_id: 
+		71240
+*	is_active: 
+		true
+*	is_dflt: 
+		false
+*	lang_id: 
+		
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_action_ovr: 
+		false
+*	mail_evt_id: 
+		
+*	is_neutral: 
+		false
+*	addr_id: 
+		71240
+*	lang_src_id: 
+		from_bp
+*	id: 
+		310
+*	mail_freq_id: 
+		mth
+*	mail_freq_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_stmt_portf
+*	obj_rel_sub_type_id: 
+		mail_bp
+minstr_list
+*	is_neutral: 
+		false
+*	mail_evt_id: 
+		
+*	dlv_addr_id: 
+		71240
+*	is_dflt: 
+		false
+*	mail_action_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_letter
+*	addr_id: 
+		71240
+*	id: 
+		311
+*	lang_src_id: 
+		from_bp
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_freq_id: 
+		day
+*	mail_freq_ovr: 
+		false
+*	is_active: 
+		true
+*	lang_id: 
+		
+*	obj_rel_sub_type_id: 
+		mail_bp
+minstr_list
+*	mail_action_ovr: 
+		false
+*	mail_evt_id: 
+		
+*	addr_id: 
+		71279
+*	is_dflt: 
+		false
+*	is_neutral: 
+		false
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_freq_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_adv
+*	dlv_addr_id: 
+		71279
+*	is_active: 
+		true
+*	lang_id: 
+		
+*	mail_freq_id: 
+		day
+*	id: 
+		312
+*	lang_src_id: 
+		from_bp
+*	obj_rel_sub_type_id: 
+		mail_bp
+minstr_list
+*	dlv_addr_id: 
+		71279
+*	mail_action_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_stmt_portf
+*	mail_freq_id: 
+		mth
+*	id: 
+		313
+*	is_dflt: 
+		false
+*	is_neutral: 
+		false
+*	lang_src_id: 
+		from_bp
+*	addr_id: 
+		71279
+*	is_active: 
+		true
+*	mail_evt_id: 
+		
+*	mail_freq_ovr: 
+		false
+*	lang_id: 
+		
+*	mail_action_id: 
+		mba$ccm_send
+*	obj_rel_sub_type_id: 
+		mail_bp
+minstr_list
+*	dlv_addr_id: 
+		71279
+*	id: 
+		314
+*	mail_evt_id: 
+		
+*	is_active: 
+		true
+*	lang_src_id: 
+		from_bp
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_action_ovr: 
+		false
+*	mail_freq_ovr: 
+		false
+*	is_dflt: 
+		false
+*	lang_id: 
+		
+*	mail_freq_id: 
+		day
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	addr_id: 
+		71279
+*	is_neutral: 
+		false
+*	minstr_templ_id: 
+		ccm_letter
+minstr_list
+*	dlv_addr_id: 
+		71201
+*	lang_id: 
+		
+*	lang_src_id: 
+		from_bp
+*	mail_action_ovr: 
+		false
+*	mail_freq_id: 
+		day
+*	minstr_templ_id: 
+		ccm_adv
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	id: 
+		315
+*	is_neutral: 
+		false
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_evt_id: 
+		
+*	mail_freq_ovr: 
+		false
+*	addr_id: 
+		71201
+*	is_dflt: 
+		false
+*	is_active: 
+		true
+minstr_list
+*	is_dflt: 
+		false
+*	is_neutral: 
+		false
+*	lang_src_id: 
+		from_bp
+*	addr_id: 
+		71201
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_freq_id: 
+		mth
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	dlv_addr_id: 
+		71201
+*	mail_evt_id: 
+		
+*	mail_freq_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_stmt_portf
+*	id: 
+		316
+*	is_active: 
+		true
+*	lang_id: 
+		
+*	mail_action_ovr: 
+		false
+minstr_list
+*	is_neutral: 
+		false
+*	mail_freq_id: 
+		day
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	is_dflt: 
+		false
+*	mail_freq_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_letter
+*	addr_id: 
+		71314
+*	dlv_addr_id: 
+		71314
+*	id: 
+		317
+*	mail_evt_id: 
+		
+*	is_active: 
+		true
+*	lang_id: 
+		
+*	mail_action_id: 
+		mba$ccm_send
+*	lang_src_id: 
+		from_bp
+*	mail_action_ovr: 
+		false
+minstr_list
+*	addr_id: 
+		71347
+*	is_active: 
+		true
+*	mail_evt_id: 
+		
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	lang_id: 
+		
+*	lang_src_id: 
+		from_bp
+*	mail_freq_id: 
+		day
+*	mail_freq_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_letter
+*	dlv_addr_id: 
+		71347
+*	id: 
+		320
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_action_ovr: 
+		false
+*	is_dflt: 
+		false
+*	is_neutral: 
+		false
+minstr_list
+*	mail_evt_id: 
+		
+*	minstr_templ_id: 
+		ccm_adv
+*	lang_src_id: 
+		from_bp
+*	mail_action_id: 
+		mba$ccm_send
+*	is_neutral: 
+		false
+*	lang_id: 
+		
+*	mail_action_ovr: 
+		false
+*	mail_freq_ovr: 
+		false
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	addr_id: 
+		71352
+*	id: 
+		318
+*	is_active: 
+		true
+*	is_dflt: 
+		false
+*	mail_freq_id: 
+		day
+*	dlv_addr_id: 
+		71352
+minstr_list
+*	lang_id: 
+		
+*	mail_action_id: 
+		mba$ccm_send
+*	minstr_templ_id: 
+		ccm_stmt_portf
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	dlv_addr_id: 
+		71352
+*	id: 
+		319
+*	is_dflt: 
+		false
+*	mail_freq_ovr: 
+		false
+*	lang_src_id: 
+		from_bp
+*	mail_action_ovr: 
+		false
+*	mail_evt_id: 
+		
+*	mail_freq_id: 
+		mth
+*	addr_id: 
+		71352
+*	is_active: 
+		true
+*	is_neutral: 
+		false
+minstr_list
+*	mail_action_id: 
+		mba$ccm_send
+*	dlv_addr_id: 
+		69538
+*	id: 
+		321
+*	lang_id: 
+		
+*	lang_src_id: 
+		from_bp
+*	is_active: 
+		true
+*	is_dflt: 
+		false
+*	is_neutral: 
+		false
+*	addr_id: 
+		69538
+*	mail_action_ovr: 
+		false
+*	mail_freq_ovr: 
+		false
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	mail_evt_id: 
+		
+*	mail_freq_id: 
+		day
+*	minstr_templ_id: 
+		ccm_adv
+minstr_list
+*	is_active: 
+		true
+*	is_neutral: 
+		false
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_freq_id: 
+		mth
+*	addr_id: 
+		69538
+*	is_dflt: 
+		false
+*	mail_action_ovr: 
+		false
+*	mail_freq_ovr: 
+		false
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	lang_id: 
+		
+*	lang_src_id: 
+		from_bp
+*	mail_evt_id: 
+		
+*	minstr_templ_id: 
+		ccm_stmt_portf
+*	dlv_addr_id: 
+		69538
+*	id: 
+		322
+minstr_list
+*	mail_action_ovr: 
+		false
+*	mail_freq_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_letter
+*	addr_id: 
+		71413
+*	id: 
+		323
+*	is_dflt: 
+		false
+*	lang_id: 
+		
+*	lang_src_id: 
+		from_bp
+*	dlv_addr_id: 
+		71413
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	is_active: 
+		true
+*	is_neutral: 
+		false
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_evt_id: 
+		
+*	mail_freq_id: 
+		day
+minstr_list
+*	dlv_addr_id: 
+		71450
+*	id: 
+		326
+*	mail_action_ovr: 
+		false
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	lang_src_id: 
+		from_bp
+*	mail_freq_id: 
+		day
+*	is_dflt: 
+		false
+*	is_neutral: 
+		false
+*	lang_id: 
+		
+*	mail_action_id: 
+		mba$ccm_send
+*	addr_id: 
+		71450
+*	is_active: 
+		true
+*	mail_evt_id: 
+		
+*	mail_freq_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_letter
+minstr_list
+*	mail_freq_id: 
+		day
+*	mail_freq_ovr: 
+		false
+*	lang_src_id: 
+		from_bp
+*	mail_action_ovr: 
+		false
+*	is_dflt: 
+		false
+*	is_neutral: 
+		false
+*	dlv_addr_id: 
+		71452
+*	is_active: 
+		true
+*	minstr_templ_id: 
+		ccm_adv
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	addr_id: 
+		71452
+*	id: 
+		324
+*	mail_evt_id: 
+		
+*	lang_id: 
+		
+*	mail_action_id: 
+		mba$ccm_send
+minstr_list
+*	is_active: 
+		true
+*	mail_freq_ovr: 
+		false
+*	id: 
+		325
+*	is_dflt: 
+		false
+*	lang_src_id: 
+		from_bp
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_action_ovr: 
+		false
+*	dlv_addr_id: 
+		71452
+*	is_neutral: 
+		false
+*	minstr_templ_id: 
+		ccm_stmt_portf
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	addr_id: 
+		71452
+*	lang_id: 
+		
+*	mail_evt_id: 
+		
+*	mail_freq_id: 
+		mth
+minstr_list
+*	lang_src_id: 
+		from_bp
+*	dlv_addr_id: 
+		69538
+*	id: 
+		327
+*	is_active: 
+		true
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_evt_id: 
+		
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	minstr_templ_id: 
+		ccm_adv
+*	addr_id: 
+		69538
+*	lang_id: 
+		
+*	mail_freq_ovr: 
+		false
+*	mail_freq_id: 
+		day
+*	is_dflt: 
+		false
+*	is_neutral: 
+		false
+*	mail_action_ovr: 
+		false
+minstr_list
+*	is_dflt: 
+		false
+*	lang_id: 
+		
+*	mail_evt_id: 
+		
+*	mail_freq_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_stmt_portf
+*	id: 
+		328
+*	mail_action_ovr: 
+		false
+*	is_neutral: 
+		false
+*	lang_src_id: 
+		from_bp
+*	mail_action_id: 
+		mba$ccm_send
+*	addr_id: 
+		69538
+*	is_active: 
+		true
+*	mail_freq_id: 
+		mth
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	dlv_addr_id: 
+		69538
+minstr_list
+*	mail_freq_id: 
+		day
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	is_dflt: 
+		false
+*	is_neutral: 
+		false
+*	lang_id: 
+		
+*	mail_action_ovr: 
+		false
+*	mail_freq_ovr: 
+		false
+*	id: 
+		329
+*	mail_evt_id: 
+		
+*	addr_id: 
+		71499
+*	dlv_addr_id: 
+		71499
+*	is_active: 
+		true
+*	lang_src_id: 
+		from_bp
+*	mail_action_id: 
+		mba$ccm_send
+*	minstr_templ_id: 
+		ccm_letter
+minstr_list
+*	is_dflt: 
+		false
+*	is_neutral: 
+		false
+*	mail_freq_id: 
+		day
+*	mail_freq_ovr: 
+		false
+*	is_active: 
+		true
+*	lang_src_id: 
+		from_bp
+*	mail_action_id: 
+		mba$ccm_send
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	mail_evt_id: 
+		
+*	minstr_templ_id: 
+		ccm_adv
+*	addr_id: 
+		69538
+*	dlv_addr_id: 
+		69538
+*	id: 
+		330
+*	lang_id: 
+		
+*	mail_action_ovr: 
+		false
+minstr_list
+*	lang_id: 
+		
+*	mail_evt_id: 
+		
+*	minstr_templ_id: 
+		ccm_stmt_portf
+*	is_neutral: 
+		false
+*	dlv_addr_id: 
+		69538
+*	is_active: 
+		true
+*	mail_action_ovr: 
+		false
+*	mail_freq_ovr: 
+		false
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	addr_id: 
+		69538
+*	is_dflt: 
+		false
+*	mail_freq_id: 
+		mth
+*	id: 
+		331
+*	mail_action_id: 
+		mba$ccm_send
+*	lang_src_id: 
+		from_bp
+minstr_list
+*	addr_id: 
+		69538
+*	dlv_addr_id: 
+		69538
+*	is_neutral: 
+		false
+*	lang_id: 
+		
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_action_ovr: 
+		false
+*	mail_freq_id: 
+		day
+*	id: 
+		332
+*	is_dflt: 
+		false
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	minstr_templ_id: 
+		ccm_adv
+*	is_active: 
+		true
+*	lang_src_id: 
+		from_bp
+*	mail_evt_id: 
+		
+*	mail_freq_ovr: 
+		false
+minstr_list
+*	id: 
+		333
+*	is_neutral: 
+		false
+*	addr_id: 
+		69538
+*	dlv_addr_id: 
+		69538
+*	is_active: 
+		true
+*	is_dflt: 
+		false
+*	lang_src_id: 
+		from_bp
+*	mail_action_ovr: 
+		false
+*	mail_freq_ovr: 
+		false
+*	lang_id: 
+		
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_evt_id: 
+		
+*	mail_freq_id: 
+		mth
+*	minstr_templ_id: 
+		ccm_stmt_portf
+*	obj_rel_sub_type_id: 
+		mail_bp
+minstr_list
+*	dlv_addr_id: 
+		69853
+*	mail_freq_ovr: 
+		false
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	mail_action_id: 
+		mba$ccm_send
+*	addr_id: 
+		69853
+*	lang_id: 
+		
+*	lang_src_id: 
+		from_bp
+*	minstr_templ_id: 
+		ccm_adv
+*	is_dflt: 
+		false
+*	mail_action_ovr: 
+		false
+*	mail_evt_id: 
+		
+*	mail_freq_id: 
+		day
+*	id: 
+		334
+*	is_active: 
+		true
+*	is_neutral: 
+		false
+minstr_list
+*	id: 
+		335
+*	is_neutral: 
+		false
+*	lang_id: 
+		
+*	mail_freq_id: 
+		mth
+*	mail_freq_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_stmt_portf
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	dlv_addr_id: 
+		69853
+*	is_dflt: 
+		false
+*	addr_id: 
+		69853
+*	mail_action_ovr: 
+		false
+*	mail_evt_id: 
+		
+*	is_active: 
+		true
+*	lang_src_id: 
+		from_bp
+*	mail_action_id: 
+		mba$ccm_send
+minstr_list
+*	id: 
+		336
+*	is_dflt: 
+		false
+*	minstr_templ_id: 
+		ccm_adv
+*	is_active: 
+		true
+*	lang_id: 
+		
+*	mail_freq_ovr: 
+		false
+*	addr_id: 
+		69853
+*	lang_src_id: 
+		from_bp
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_evt_id: 
+		
+*	mail_freq_id: 
+		day
+*	dlv_addr_id: 
+		69853
+*	is_neutral: 
+		false
+*	mail_action_ovr: 
+		false
+*	obj_rel_sub_type_id: 
+		mail_bp
+minstr_list
+*	dlv_addr_id: 
+		69853
+*	lang_src_id: 
+		from_bp
+*	mail_action_id: 
+		mba$ccm_send
+*	addr_id: 
+		69853
+*	is_dflt: 
+		false
+*	is_neutral: 
+		false
+*	lang_id: 
+		
+*	id: 
+		337
+*	is_active: 
+		true
+*	mail_evt_id: 
+		
+*	mail_freq_id: 
+		mth
+*	minstr_templ_id: 
+		ccm_stmt_portf
+*	mail_action_ovr: 
+		false
+*	mail_freq_ovr: 
+		false
+*	obj_rel_sub_type_id: 
+		mail_bp
+minstr_list
+*	is_active: 
+		true
+*	is_dflt: 
+		false
+*	mail_action_ovr: 
+		false
+*	dlv_addr_id: 
+		71680
+*	lang_src_id: 
+		from_bp
+*	mail_evt_id: 
+		
+*	id: 
+		338
+*	is_neutral: 
+		false
+*	lang_id: 
+		
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_freq_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_adv
+*	addr_id: 
+		71680
+*	mail_freq_id: 
+		day
+*	obj_rel_sub_type_id: 
+		mail_bp
+minstr_list
+*	mail_action_ovr: 
+		false
+*	dlv_addr_id: 
+		71680
+*	is_active: 
+		true
+*	mail_evt_id: 
+		
+*	mail_freq_id: 
+		mth
+*	is_dflt: 
+		false
+*	is_neutral: 
+		false
+*	lang_src_id: 
+		from_bp
+*	mail_freq_ovr: 
+		false
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	addr_id: 
+		71680
+*	id: 
+		339
+*	lang_id: 
+		
+*	mail_action_id: 
+		mba$ccm_send
+*	minstr_templ_id: 
+		ccm_stmt_portf
+minstr_list
+*	is_active: 
+		true
+*	is_dflt: 
+		false
+*	addr_id: 
+		71680
+*	dlv_addr_id: 
+		71680
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_action_ovr: 
+		false
+*	mail_freq_ovr: 
+		false
+*	id: 
+		340
+*	lang_id: 
+		
+*	lang_src_id: 
+		from_bp
+*	is_neutral: 
+		false
+*	mail_evt_id: 
+		
+*	mail_freq_id: 
+		day
+*	minstr_templ_id: 
+		ccm_letter
+*	obj_rel_sub_type_id: 
+		mail_bp
+minstr_list
+*	mail_freq_id: 
+		day
+*	id: 
+		341
+*	lang_src_id: 
+		from_bp
+*	mail_action_ovr: 
+		false
+*	mail_evt_id: 
+		
+*	mail_freq_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_adv
+*	is_active: 
+		true
+*	is_neutral: 
+		false
+*	lang_id: 
+		
+*	mail_action_id: 
+		mba$ccm_send
+*	is_dflt: 
+		false
+*	dlv_addr_id: 
+		71720
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	addr_id: 
+		71720
+minstr_list
+*	is_active: 
+		true
+*	is_dflt: 
+		false
+*	is_neutral: 
+		false
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_action_ovr: 
+		false
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	dlv_addr_id: 
+		71720
+*	mail_evt_id: 
+		
+*	id: 
+		342
+*	minstr_templ_id: 
+		ccm_stmt_portf
+*	addr_id: 
+		71720
+*	lang_id: 
+		
+*	lang_src_id: 
+		from_bp
+*	mail_freq_id: 
+		mth
+*	mail_freq_ovr: 
+		false
+minstr_list
+*	id: 
+		343
+*	mail_freq_id: 
+		day
+*	is_active: 
+		true
+*	lang_id: 
+		
+*	mail_evt_id: 
+		
+*	mail_freq_ovr: 
+		false
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	addr_id: 
+		71720
+*	dlv_addr_id: 
+		71720
+*	is_dflt: 
+		false
+*	is_neutral: 
+		false
+*	mail_action_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_letter
+*	lang_src_id: 
+		from_bp
+*	mail_action_id: 
+		mba$ccm_send
+minstr_list
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_freq_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_adv
+*	is_neutral: 
+		false
+*	id: 
+		344
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	dlv_addr_id: 
+		71760
+*	addr_id: 
+		71760
+*	is_dflt: 
+		false
+*	lang_id: 
+		
+*	lang_src_id: 
+		from_bp
+*	mail_action_ovr: 
+		false
+*	mail_evt_id: 
+		
+*	mail_freq_id: 
+		day
+*	is_active: 
+		true
+minstr_list
+*	is_active: 
+		true
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_freq_ovr: 
+		false
+*	lang_id: 
+		
+*	mail_action_ovr: 
+		false
+*	mail_evt_id: 
+		
+*	dlv_addr_id: 
+		71760
+*	is_dflt: 
+		false
+*	is_neutral: 
+		false
+*	lang_src_id: 
+		from_bp
+*	mail_freq_id: 
+		mth
+*	minstr_templ_id: 
+		ccm_stmt_portf
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	addr_id: 
+		71760
+*	id: 
+		345
+minstr_list
+*	id: 
+		346
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	is_dflt: 
+		false
+*	lang_src_id: 
+		from_bp
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_freq_id: 
+		day
+*	addr_id: 
+		71760
+*	dlv_addr_id: 
+		71760
+*	is_active: 
+		true
+*	lang_id: 
+		
+*	mail_evt_id: 
+		
+*	mail_freq_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_letter
+*	is_neutral: 
+		false
+*	mail_action_ovr: 
+		false
+minstr_list
+*	minstr_templ_id: 
+		ccm_adv
+*	lang_id: 
+		
+*	is_neutral: 
+		false
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_action_ovr: 
+		false
+*	mail_freq_id: 
+		day
+*	id: 
+		347
+*	is_active: 
+		true
+*	is_dflt: 
+		false
+*	lang_src_id: 
+		from_bp
+*	mail_evt_id: 
+		
+*	addr_id: 
+		71800
+*	mail_freq_ovr: 
+		false
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	dlv_addr_id: 
+		71800
+minstr_list
+*	id: 
+		348
+*	mail_evt_id: 
+		
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	mail_action_id: 
+		mba$ccm_send
+*	minstr_templ_id: 
+		ccm_stmt_portf
+*	is_dflt: 
+		false
+*	is_neutral: 
+		false
+*	lang_src_id: 
+		from_bp
+*	mail_freq_id: 
+		mth
+*	addr_id: 
+		71800
+*	is_active: 
+		true
+*	lang_id: 
+		
+*	dlv_addr_id: 
+		71800
+*	mail_action_ovr: 
+		false
+*	mail_freq_ovr: 
+		false
+minstr_list
+*	is_dflt: 
+		false
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_action_ovr: 
+		false
+*	addr_id: 
+		71800
+*	id: 
+		349
+*	is_neutral: 
+		false
+*	mail_evt_id: 
+		
+*	mail_freq_id: 
+		day
+*	lang_id: 
+		
+*	minstr_templ_id: 
+		ccm_letter
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	dlv_addr_id: 
+		71800
+*	is_active: 
+		true
+*	lang_src_id: 
+		from_bp
+*	mail_freq_ovr: 
+		false
+minstr_list
+*	is_neutral: 
+		false
+*	id: 
+		350
+*	lang_src_id: 
+		from_bp
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_evt_id: 
+		
+*	mail_freq_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_adv
+*	is_active: 
+		true
+*	is_dflt: 
+		false
+*	lang_id: 
+		
+*	mail_action_ovr: 
+		false
+*	mail_freq_id: 
+		day
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	addr_id: 
+		71840
+*	dlv_addr_id: 
+		71840
+minstr_list
+*	mail_freq_id: 
+		mth
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	addr_id: 
+		71840
+*	dlv_addr_id: 
+		71840
+*	id: 
+		351
+*	is_dflt: 
+		false
+*	mail_action_ovr: 
+		false
+*	mail_evt_id: 
+		
+*	is_active: 
+		true
+*	lang_id: 
+		
+*	lang_src_id: 
+		from_bp
+*	is_neutral: 
+		false
+*	mail_freq_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_stmt_portf
+*	mail_action_id: 
+		mba$ccm_send
+minstr_list
+*	id: 
+		352
+*	is_active: 
+		true
+*	lang_id: 
+		
+*	mail_evt_id: 
+		
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	dlv_addr_id: 
+		71840
+*	minstr_templ_id: 
+		ccm_letter
+*	addr_id: 
+		71840
+*	is_dflt: 
+		false
+*	is_neutral: 
+		false
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_action_ovr: 
+		false
+*	mail_freq_id: 
+		day
+*	lang_src_id: 
+		from_bp
+*	mail_freq_ovr: 
+		false
+minstr_list
+*	addr_id: 
+		78634
+*	is_neutral: 
+		false
+*	lang_src_id: 
+		from_bp
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_evt_id: 
+		
+*	mail_freq_id: 
+		day
+*	dlv_addr_id: 
+		78634
+*	id: 
+		1041
+*	lang_id: 
+		
+*	mail_action_ovr: 
+		false
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	is_active: 
+		true
+*	is_dflt: 
+		false
+*	mail_freq_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_adv
+minstr_list
+*	lang_id: 
+		
+*	mail_evt_id: 
+		
+*	is_active: 
+		true
+*	id: 
+		1042
+*	is_neutral: 
+		false
+*	mail_action_ovr: 
+		false
+*	dlv_addr_id: 
+		78634
+*	lang_src_id: 
+		from_bp
+*	mail_freq_id: 
+		mth
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	is_dflt: 
+		false
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_freq_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_stmt_portf
+*	addr_id: 
+		78634
+minstr_list
+*	lang_id: 
+		
+*	lang_src_id: 
+		from_bp
+*	addr_id: 
+		78501
+*	is_active: 
+		true
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_freq_id: 
+		day
+*	mail_freq_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_adv
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	dlv_addr_id: 
+		78501
+*	id: 
+		1031
+*	is_dflt: 
+		false
+*	is_neutral: 
+		false
+*	mail_action_ovr: 
+		false
+*	mail_evt_id: 
+		
+minstr_list
+*	is_active: 
+		true
+*	is_dflt: 
+		false
+*	lang_src_id: 
+		from_bp
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_action_ovr: 
+		false
+*	mail_freq_id: 
+		mth
+*	minstr_templ_id: 
+		ccm_stmt_portf
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	id: 
+		1032
+*	is_neutral: 
+		false
+*	lang_id: 
+		
+*	mail_freq_ovr: 
+		false
+*	addr_id: 
+		78501
+*	dlv_addr_id: 
+		78501
+*	mail_evt_id: 
+		
+minstr_list
+*	dlv_addr_id: 
+		69183
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_freq_id: 
+		day
+*	is_neutral: 
+		false
+*	lang_src_id: 
+		from_bp
+*	mail_freq_ovr: 
+		false
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	id: 
+		1035
+*	lang_id: 
+		
+*	minstr_templ_id: 
+		ccm_adv
+*	mail_action_ovr: 
+		false
+*	mail_evt_id: 
+		
+*	addr_id: 
+		69183
+*	is_active: 
+		true
+*	is_dflt: 
+		false
+minstr_list
+*	addr_id: 
+		69183
+*	dlv_addr_id: 
+		69183
+*	lang_src_id: 
+		from_bp
+*	mail_evt_id: 
+		
+*	mail_freq_id: 
+		mth
+*	lang_id: 
+		
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_action_ovr: 
+		false
+*	is_active: 
+		true
+*	is_dflt: 
+		false
+*	is_neutral: 
+		false
+*	minstr_templ_id: 
+		ccm_stmt_portf
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	id: 
+		1036
+*	mail_freq_ovr: 
+		false
+minstr_list
+*	dlv_addr_id: 
+		78619
+*	mail_action_ovr: 
+		false
+*	addr_id: 
+		78619
+*	id: 
+		1049
+*	is_dflt: 
+		false
+*	lang_id: 
+		
+*	lang_src_id: 
+		from_bp
+*	mail_evt_id: 
+		
+*	is_neutral: 
+		false
+*	mail_freq_ovr: 
+		false
+*	minstr_templ_id: 
+		ccm_adv
+*	is_active: 
+		true
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_freq_id: 
+		day
+*	obj_rel_sub_type_id: 
+		mail_bp
+minstr_list
+*	dlv_addr_id: 
+		78619
+*	lang_id: 
+		
+*	mail_evt_id: 
+		
+*	minstr_templ_id: 
+		ccm_stmt_portf
+*	is_active: 
+		true
+*	is_dflt: 
+		false
+*	mail_action_ovr: 
+		false
+*	obj_rel_sub_type_id: 
+		mail_bp
+*	addr_id: 
+		78619
+*	id: 
+		1050
+*	lang_src_id: 
+		from_bp
+*	mail_freq_ovr: 
+		false
+*	is_neutral: 
+		false
+*	mail_action_id: 
+		mba$ccm_send
+*	mail_freq_id: 
+		mth
+obj_addr_list
+*	addr_id: 
+		38248
+*	is_main: 
+		true
+*	is_resid: 
+		false
+obj_addr_list
+*	is_main: 
+		true
+*	is_resid: 
+		false
+*	addr_id: 
+		46224
+obj_addr_list
+*	addr_id: 
+		46224
+*	is_main: 
+		true
+*	is_resid: 
+		false
+obj_addr_list
+*	is_main: 
+		true
+*	is_resid: 
+		true
+*	addr_id: 
+		61612
+obj_addr_list
+*	addr_id: 
+		61442
+*	is_main: 
+		true
+*	is_resid: 
+		true
+obj_addr_list
+*	is_main: 
+		true
+*	is_resid: 
+		true
+*	addr_id: 
+		61498
+obj_addr_list
+*	addr_id: 
+		61788
+*	is_main: 
+		true
+*	is_resid: 
+		true
+obj_addr_list
+*	addr_id: 
+		61504
+*	is_main: 
+		true
+*	is_resid: 
+		true
+obj_addr_list
+*	is_resid: 
+		true
+*	addr_id: 
+		61546
+*	is_main: 
+		true
+obj_addr_list
+*	is_resid: 
+		true
+*	addr_id: 
+		61512
+*	is_main: 
+		true
+obj_addr_list
+*	addr_id: 
+		61464
+*	is_main: 
+		true
+*	is_resid: 
+		true
+obj_addr_list
+*	addr_id: 
+		61447
+*	is_main: 
+		true
+*	is_resid: 
+		true
+obj_addr_list
+*	addr_id: 
+		61670
+*	is_main: 
+		true
+*	is_resid: 
+		true
+obj_addr_list
+*	addr_id: 
+		61676
+*	is_main: 
+		true
+*	is_resid: 
+		true
+obj_addr_list
+*	addr_id: 
+		61567
+*	is_main: 
+		true
+*	is_resid: 
+		true
+obj_addr_list
+*	addr_id: 
+		61455
+*	is_main: 
+		true
+*	is_resid: 
+		true
+obj_addr_list
+*	addr_id: 
+		61741
+*	is_main: 
+		true
+*	is_resid: 
+		true
+obj_addr_list
+*	addr_id: 
+		61529
+*	is_main: 
+		true
+*	is_resid: 
+		true
+obj_addr_list
+*	is_main: 
+		true
+*	is_resid: 
+		true
+*	addr_id: 
+		61689
+obj_addr_list
+*	is_main: 
+		true
+*	is_resid: 
+		true
+*	addr_id: 
+		61550
+obj_addr_list
+*	is_resid: 
+		true
+*	addr_id: 
+		61463
+*	is_main: 
+		true
+obj_addr_list
+*	addr_id: 
+		61788
+*	is_main: 
+		true
+*	is_resid: 
+		true
+obj_addr_list
+*	is_resid: 
+		true
+*	addr_id: 
+		61579
+*	is_main: 
+		true
+obj_addr_list
+*	is_main: 
+		true
+*	is_resid: 
+		true
+*	addr_id: 
+		61728
+obj_addr_list
+*	addr_id: 
+		61634
+*	is_main: 
+		true
+*	is_resid: 
+		true
+obj_addr_list
+*	addr_id: 
+		61469
+*	is_main: 
+		true
+*	is_resid: 
+		true
+obj_addr_list
+*	addr_id: 
+		61512
+*	is_main: 
+		true
+*	is_resid: 
+		true
+obj_addr_list
+*	addr_id: 
+		61567
+*	is_main: 
+		true
+*	is_resid: 
+		true
+obj_addr_list
+*	addr_id: 
+		61736
+*	is_main: 
+		true
+*	is_resid: 
+		true
+obj_addr_list
+*	is_resid: 
+		true
+*	addr_id: 
+		61475
+*	is_main: 
+		true
+obj_addr_list
+*	addr_id: 
+		61655
+*	is_main: 
+		true
+*	is_resid: 
+		true
+obj_addr_list
+*	addr_id: 
+		61696
+*	is_main: 
+		true
+*	is_resid: 
+		true
+obj_addr_list
+*	addr_id: 
+		61550
+*	is_main: 
+		true
+*	is_resid: 
+		true
+obj_addr_list
+*	is_main: 
+		true
+*	is_resid: 
+		true
+*	addr_id: 
+		61445
+obj_addr_list
+*	is_main: 
+		true
+*	is_resid: 
+		true
+*	addr_id: 
+		61482
+obj_addr_list
+*	is_main: 
+		true
+*	is_resid: 
+		true
+*	addr_id: 
+		61718
+obj_addr_list
+*	addr_id: 
+		61556
+*	is_main: 
+		true
+*	is_resid: 
+		true
+obj_addr_list
+*	addr_id: 
+		61634
+*	is_main: 
+		true
+*	is_resid: 
+		true
+obj_addr_list
+*	addr_id: 
+		61702
+*	is_main: 
+		true
+*	is_resid: 
+		true
+obj_addr_list
+*	addr_id: 
+		61754
+*	is_main: 
+		true
+*	is_resid: 
+		true
+obj_addr_list
+*	addr_id: 
+		61489
+*	is_main: 
+		true
+*	is_resid: 
+		true
+obj_addr_list
+*	is_resid: 
+		true
+*	addr_id: 
+		61765
+*	is_main: 
+		true
+obj_addr_list
+*	addr_id: 
+		61561
+*	is_main: 
+		true
+*	is_resid: 
+		true
+obj_addr_list
+*	addr_id: 
+		61655
+*	is_main: 
+		true
+*	is_resid: 
+		true
+obj_addr_list
+*	is_main: 
+		true
+*	is_resid: 
+		true
+*	addr_id: 
+		61707
+obj_addr_list
+*	addr_id: 
+		61495
+*	is_main: 
+		true
+*	is_resid: 
+		true
+obj_addr_list
+*	addr_id: 
+		61448
+*	is_main: 
+		true
+*	is_resid: 
+		true
+obj_addr_list
+*	addr_id: 
+		61718
+*	is_main: 
+		true
+*	is_resid: 
+		true
+obj_addr_list
+*	addr_id: 
+		61472
+*	is_main: 
+		true
+*	is_resid: 
+		true
+obj_addr_list
+*	addr_id: 
+		61603
+*	is_main: 
+		true
+*	is_resid: 
+		true
+obj_addr_list
+*	addr_id: 
+		61572
+*	is_main: 
+		true
+*	is_resid: 
+		true
+obj_addr_list
+*	is_resid: 
+		true
+*	addr_id: 
+		61500
+*	is_main: 
+		true
+obj_addr_list
+*	addr_id: 
+		61454
+*	is_main: 
+		true
+*	is_resid: 
+		true
+obj_addr_list
+*	addr_id: 
+		61765
+*	is_main: 
+		true
+*	is_resid: 
+		true
+obj_addr_list
+*	addr_id: 
+		61513
+*	is_main: 
+		true
+*	is_resid: 
+		true
+obj_addr_list
+*	addr_id: 
+		61459
+*	is_main: 
+		true
+*	is_resid: 
+		true
+obj_addr_list
+*	addr_id: 
+		61603
+*	is_main: 
+		true
+*	is_resid: 
+		true
+obj_addr_list
+*	addr_id: 
+		61583
+*	is_main: 
+		true
+*	is_resid: 
+		true
+obj_addr_list
+*	addr_id: 
+		61477
+*	is_main: 
+		true
+*	is_resid: 
+		true
+obj_addr_list
+*	addr_id: 
+		61570
+*	is_main: 
+		true
+*	is_resid: 
+		true
+obj_addr_list
+*	is_main: 
+		true
+*	is_resid: 
+		true
+*	addr_id: 
+		61670
+obj_addr_list
+*	addr_id: 
+		61483
+*	is_main: 
+		true
+*	is_resid: 
+		true
+obj_addr_list
+*	addr_id: 
+		61588
+*	is_main: 
+		true
+*	is_resid: 
+		true
+obj_addr_list
+*	addr_id: 
+		61575
+*	is_main: 
+		true
+*	is_resid: 
+		true
+obj_addr_list
+*	is_main: 
+		true
+*	is_resid: 
+		true
+*	addr_id: 
+		61741
+obj_addr_list
+*	addr_id: 
+		61517
+*	is_main: 
+		true
+*	is_resid: 
+		true
+obj_addr_list
+*	addr_id: 
+		61487
+*	is_main: 
+		true
+*	is_resid: 
+		true
+obj_addr_list
+*	is_main: 
+		true
+*	is_resid: 
+		true
+*	addr_id: 
+		61594
+obj_addr_list
+*	addr_id: 
+		61598
+*	is_main: 
+		true
+*	is_resid: 
+		true
+obj_addr_list
+*	is_resid: 
+		true
+*	addr_id: 
+		61507
+*	is_main: 
+		true
+obj_addr_list
+*	addr_id: 
+		61492
+*	is_main: 
+		true
+*	is_resid: 
+		true
+obj_addr_list
+*	is_resid: 
+		true
+*	addr_id: 
+		61602
+*	is_main: 
+		true
+obj_addr_list
+*	addr_id: 
+		61770
+*	is_main: 
+		true
+*	is_resid: 
+		true
+obj_addr_list
+*	addr_id: 
+		61606
+*	is_main: 
+		true
+*	is_resid: 
+		true
+obj_addr_list
+*	is_main: 
+		true
+*	is_resid: 
+		true
+*	addr_id: 
+		61776
+obj_addr_list
+*	is_resid: 
+		false
+*	addr_id: 
+		69183
+*	is_main: 
+		true
+obj_addr_list
+*	is_main: 
+		false
+*	is_resid: 
+		false
+*	addr_id: 
+		69184
+obj_addr_list
+*	is_main: 
+		false
+*	is_resid: 
+		false
+*	addr_id: 
+		69185
+obj_addr_list
+*	is_main: 
+		false
+*	is_resid: 
+		false
+*	addr_id: 
+		69186
+obj_addr_list
+*	addr_id: 
+		69187
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69226
+*	is_main: 
+		true
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69227
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69228
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69229
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_resid: 
+		false
+*	addr_id: 
+		69230
+*	is_main: 
+		false
+obj_addr_list
+*	addr_id: 
+		69271
+*	is_main: 
+		true
+*	is_resid: 
+		true
+obj_addr_list
+*	is_main: 
+		false
+*	is_resid: 
+		false
+*	addr_id: 
+		69272
+obj_addr_list
+*	addr_id: 
+		69273
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69274
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69275
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_resid: 
+		false
+*	addr_id: 
+		69314
+*	is_main: 
+		true
+obj_addr_list
+*	addr_id: 
+		69315
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69316
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69317
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69319
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69320
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69321
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69322
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69323
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69325
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_main: 
+		false
+*	is_resid: 
+		false
+*	addr_id: 
+		69326
+obj_addr_list
+*	addr_id: 
+		69327
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69328
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69329
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69366
+*	is_main: 
+		true
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69367
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69368
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69369
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69406
+*	is_main: 
+		true
+*	is_resid: 
+		false
+obj_addr_list
+*	is_resid: 
+		false
+*	addr_id: 
+		69407
+*	is_main: 
+		false
+obj_addr_list
+*	addr_id: 
+		69408
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69409
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69446
+*	is_main: 
+		true
+*	is_resid: 
+		false
+obj_addr_list
+*	is_resid: 
+		false
+*	addr_id: 
+		69447
+*	is_main: 
+		false
+obj_addr_list
+*	addr_id: 
+		69448
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69449
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69450
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69489
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_main: 
+		true
+*	is_resid: 
+		false
+*	addr_id: 
+		69491
+obj_addr_list
+*	addr_id: 
+		69492
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_resid: 
+		false
+*	addr_id: 
+		69493
+*	is_main: 
+		false
+obj_addr_list
+*	addr_id: 
+		69494
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69495
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69497
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69498
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69499
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69500
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69501
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69538
+*	is_main: 
+		true
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69539
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_main: 
+		false
+*	is_resid: 
+		false
+*	addr_id: 
+		69540
+obj_addr_list
+*	addr_id: 
+		69541
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69542
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_main: 
+		true
+*	is_resid: 
+		false
+*	addr_id: 
+		69581
+obj_addr_list
+*	addr_id: 
+		69582
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69583
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69584
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69585
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69638
+*	is_main: 
+		true
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69639
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69640
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_main: 
+		false
+*	is_resid: 
+		false
+*	addr_id: 
+		69641
+obj_addr_list
+*	is_main: 
+		false
+*	is_resid: 
+		false
+*	addr_id: 
+		69642
+obj_addr_list
+*	addr_id: 
+		69681
+*	is_main: 
+		true
+*	is_resid: 
+		false
+obj_addr_list
+*	is_resid: 
+		false
+*	addr_id: 
+		69682
+*	is_main: 
+		false
+obj_addr_list
+*	addr_id: 
+		69683
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69684
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69685
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69724
+*	is_main: 
+		true
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69725
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_resid: 
+		false
+*	addr_id: 
+		69726
+*	is_main: 
+		false
+obj_addr_list
+*	is_main: 
+		false
+*	is_resid: 
+		false
+*	addr_id: 
+		69727
+obj_addr_list
+*	addr_id: 
+		69728
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_main: 
+		true
+*	is_resid: 
+		false
+*	addr_id: 
+		69767
+obj_addr_list
+*	addr_id: 
+		69768
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69769
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69770
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69771
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69810
+*	is_main: 
+		true
+*	is_resid: 
+		false
+obj_addr_list
+*	is_resid: 
+		false
+*	addr_id: 
+		69811
+*	is_main: 
+		false
+obj_addr_list
+*	addr_id: 
+		69812
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69813
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69814
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69853
+*	is_main: 
+		true
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69854
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69855
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69856
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_resid: 
+		false
+*	addr_id: 
+		69858
+*	is_main: 
+		false
+obj_addr_list
+*	is_main: 
+		false
+*	is_resid: 
+		false
+*	addr_id: 
+		69859
+obj_addr_list
+*	is_resid: 
+		false
+*	addr_id: 
+		69860
+*	is_main: 
+		false
+obj_addr_list
+*	addr_id: 
+		69861
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_resid: 
+		false
+*	addr_id: 
+		69862
+*	is_main: 
+		false
+obj_addr_list
+*	addr_id: 
+		69864
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69865
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69866
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69867
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69868
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69870
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69871
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69872
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_resid: 
+		false
+*	addr_id: 
+		69873
+*	is_main: 
+		false
+obj_addr_list
+*	addr_id: 
+		69874
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69876
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69877
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69878
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69879
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_main: 
+		false
+*	is_resid: 
+		false
+*	addr_id: 
+		69880
+obj_addr_list
+*	addr_id: 
+		69917
+*	is_main: 
+		true
+*	is_resid: 
+		false
+obj_addr_list
+*	is_resid: 
+		false
+*	addr_id: 
+		69918
+*	is_main: 
+		false
+obj_addr_list
+*	addr_id: 
+		69919
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69920
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69922
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69923
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69924
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69925
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_main: 
+		false
+*	is_resid: 
+		false
+*	addr_id: 
+		69926
+obj_addr_list
+*	addr_id: 
+		69928
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69929
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_resid: 
+		false
+*	addr_id: 
+		69930
+*	is_main: 
+		false
+obj_addr_list
+*	addr_id: 
+		69931
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69932
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69934
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69935
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_main: 
+		false
+*	is_resid: 
+		false
+*	addr_id: 
+		69936
+obj_addr_list
+*	is_main: 
+		false
+*	is_resid: 
+		false
+*	addr_id: 
+		69937
+obj_addr_list
+*	addr_id: 
+		69938
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69940
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69941
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69942
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69943
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69944
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69981
+*	is_main: 
+		true
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69982
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69983
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69984
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69986
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_main: 
+		false
+*	is_resid: 
+		false
+*	addr_id: 
+		69987
+obj_addr_list
+*	addr_id: 
+		69988
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_main: 
+		false
+*	is_resid: 
+		false
+*	addr_id: 
+		69989
+obj_addr_list
+*	is_resid: 
+		false
+*	addr_id: 
+		69990
+*	is_main: 
+		false
+obj_addr_list
+*	addr_id: 
+		69992
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69993
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69994
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69995
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69996
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69998
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69999
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70000
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70001
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70002
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70004
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_main: 
+		false
+*	is_resid: 
+		false
+*	addr_id: 
+		70005
+obj_addr_list
+*	addr_id: 
+		70006
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70007
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_main: 
+		false
+*	is_resid: 
+		false
+*	addr_id: 
+		70008
+obj_addr_list
+*	addr_id: 
+		70045
+*	is_main: 
+		true
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70046
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70047
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_main: 
+		false
+*	is_resid: 
+		false
+*	addr_id: 
+		70048
+obj_addr_list
+*	addr_id: 
+		70050
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_main: 
+		false
+*	is_resid: 
+		false
+*	addr_id: 
+		70051
+obj_addr_list
+*	addr_id: 
+		70052
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70053
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70054
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70056
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70057
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70058
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70059
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_resid: 
+		false
+*	addr_id: 
+		70060
+*	is_main: 
+		false
+obj_addr_list
+*	is_resid: 
+		false
+*	addr_id: 
+		70062
+*	is_main: 
+		false
+obj_addr_list
+*	addr_id: 
+		70063
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70064
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70065
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70066
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70068
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_resid: 
+		false
+*	addr_id: 
+		70069
+*	is_main: 
+		false
+obj_addr_list
+*	is_resid: 
+		false
+*	addr_id: 
+		70070
+*	is_main: 
+		false
+obj_addr_list
+*	addr_id: 
+		70071
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70072
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_main: 
+		true
+*	is_resid: 
+		false
+*	addr_id: 
+		70109
+obj_addr_list
+*	is_resid: 
+		false
+*	addr_id: 
+		70110
+*	is_main: 
+		false
+obj_addr_list
+*	is_resid: 
+		false
+*	addr_id: 
+		70111
+*	is_main: 
+		false
+obj_addr_list
+*	addr_id: 
+		70112
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70113
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70152
+*	is_main: 
+		true
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70153
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70154
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70155
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_resid: 
+		false
+*	addr_id: 
+		70157
+*	is_main: 
+		false
+obj_addr_list
+*	addr_id: 
+		70158
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70159
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70160
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70161
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70163
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70164
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70165
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70166
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70167
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_resid: 
+		false
+*	addr_id: 
+		70169
+*	is_main: 
+		false
+obj_addr_list
+*	is_main: 
+		false
+*	is_resid: 
+		false
+*	addr_id: 
+		70170
+obj_addr_list
+*	addr_id: 
+		70171
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70172
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_resid: 
+		false
+*	addr_id: 
+		70173
+*	is_main: 
+		false
+obj_addr_list
+*	is_resid: 
+		false
+*	addr_id: 
+		70175
+*	is_main: 
+		false
+obj_addr_list
+*	addr_id: 
+		70176
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70177
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70178
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70179
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_main: 
+		true
+*	is_resid: 
+		false
+*	addr_id: 
+		70216
+obj_addr_list
+*	addr_id: 
+		70217
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70218
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_resid: 
+		false
+*	addr_id: 
+		70219
+*	is_main: 
+		false
+obj_addr_list
+*	is_main: 
+		false
+*	is_resid: 
+		false
+*	addr_id: 
+		70221
+obj_addr_list
+*	addr_id: 
+		70222
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70223
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_main: 
+		false
+*	is_resid: 
+		false
+*	addr_id: 
+		70224
+obj_addr_list
+*	addr_id: 
+		70225
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70227
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70228
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_resid: 
+		false
+*	addr_id: 
+		70229
+*	is_main: 
+		false
+obj_addr_list
+*	addr_id: 
+		70230
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70231
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70233
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70234
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70235
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70236
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70237
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_resid: 
+		false
+*	addr_id: 
+		70239
+*	is_main: 
+		false
+obj_addr_list
+*	addr_id: 
+		70240
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70241
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70242
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70243
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_resid: 
+		false
+*	addr_id: 
+		70280
+*	is_main: 
+		true
+obj_addr_list
+*	addr_id: 
+		70281
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70282
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_resid: 
+		false
+*	addr_id: 
+		70283
+*	is_main: 
+		false
+obj_addr_list
+*	addr_id: 
+		70284
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70323
+*	is_main: 
+		true
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70324
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_resid: 
+		false
+*	addr_id: 
+		70325
+*	is_main: 
+		false
+obj_addr_list
+*	addr_id: 
+		70326
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70363
+*	is_main: 
+		true
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70364
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70365
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70366
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70367
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70406
+*	is_main: 
+		true
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70407
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70408
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_resid: 
+		false
+*	addr_id: 
+		70409
+*	is_main: 
+		false
+obj_addr_list
+*	is_resid: 
+		false
+*	addr_id: 
+		70410
+*	is_main: 
+		false
+obj_addr_list
+*	addr_id: 
+		70449
+*	is_main: 
+		true
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70450
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_resid: 
+		false
+*	addr_id: 
+		70451
+*	is_main: 
+		false
+obj_addr_list
+*	addr_id: 
+		70452
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70453
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_main: 
+		true
+*	is_resid: 
+		false
+*	addr_id: 
+		70492
+obj_addr_list
+*	addr_id: 
+		70493
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_resid: 
+		false
+*	addr_id: 
+		70494
+*	is_main: 
+		false
+obj_addr_list
+*	addr_id: 
+		70495
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70497
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_main: 
+		false
+*	is_resid: 
+		false
+*	addr_id: 
+		70498
+obj_addr_list
+*	is_main: 
+		false
+*	is_resid: 
+		false
+*	addr_id: 
+		70499
+obj_addr_list
+*	addr_id: 
+		70500
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70501
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70503
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_resid: 
+		false
+*	addr_id: 
+		70504
+*	is_main: 
+		false
+obj_addr_list
+*	addr_id: 
+		70505
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70506
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70507
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_resid: 
+		false
+*	addr_id: 
+		70509
+*	is_main: 
+		false
+obj_addr_list
+*	addr_id: 
+		70510
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_main: 
+		false
+*	is_resid: 
+		false
+*	addr_id: 
+		70511
+obj_addr_list
+*	addr_id: 
+		70512
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_resid: 
+		false
+*	addr_id: 
+		70513
+*	is_main: 
+		false
+obj_addr_list
+*	addr_id: 
+		70515
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70516
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70517
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70518
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70519
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70556
+*	is_main: 
+		true
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70557
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_main: 
+		false
+*	is_resid: 
+		false
+*	addr_id: 
+		70558
+obj_addr_list
+*	is_resid: 
+		false
+*	addr_id: 
+		70559
+*	is_main: 
+		false
+obj_addr_list
+*	addr_id: 
+		70561
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70562
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70563
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70564
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_main: 
+		false
+*	is_resid: 
+		false
+*	addr_id: 
+		70565
+obj_addr_list
+*	addr_id: 
+		70567
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_main: 
+		false
+*	is_resid: 
+		false
+*	addr_id: 
+		70568
+obj_addr_list
+*	addr_id: 
+		70569
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_main: 
+		false
+*	is_resid: 
+		false
+*	addr_id: 
+		70570
+obj_addr_list
+*	is_main: 
+		false
+*	is_resid: 
+		false
+*	addr_id: 
+		70571
+obj_addr_list
+*	addr_id: 
+		70573
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70574
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70575
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70576
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70577
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70579
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70580
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70581
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70582
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70583
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70620
+*	is_main: 
+		true
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70621
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_resid: 
+		false
+*	addr_id: 
+		70622
+*	is_main: 
+		false
+obj_addr_list
+*	addr_id: 
+		70623
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70624
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_main: 
+		true
+*	is_resid: 
+		false
+*	addr_id: 
+		70663
+obj_addr_list
+*	addr_id: 
+		70664
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_main: 
+		false
+*	is_resid: 
+		false
+*	addr_id: 
+		70665
+obj_addr_list
+*	addr_id: 
+		70666
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_main: 
+		false
+*	is_resid: 
+		false
+*	addr_id: 
+		70667
+obj_addr_list
+*	addr_id: 
+		70668
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70669
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70708
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70709
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70710
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70711
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70713
+*	is_main: 
+		true
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70714
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70715
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70716
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70717
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70719
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70720
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70721
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70722
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_resid: 
+		false
+*	addr_id: 
+		70723
+*	is_main: 
+		false
+obj_addr_list
+*	addr_id: 
+		70725
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70726
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70727
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_main: 
+		false
+*	is_resid: 
+		false
+*	addr_id: 
+		70728
+obj_addr_list
+*	addr_id: 
+		70729
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70731
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_main: 
+		false
+*	is_resid: 
+		false
+*	addr_id: 
+		70732
+obj_addr_list
+*	addr_id: 
+		70733
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70734
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70735
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70737
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70738
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70739
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70740
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70741
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70780
+*	is_main: 
+		true
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70781
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70782
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70783
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70822
+*	is_main: 
+		true
+*	is_resid: 
+		false
+obj_addr_list
+*	is_resid: 
+		false
+*	addr_id: 
+		70823
+*	is_main: 
+		false
+obj_addr_list
+*	addr_id: 
+		70824
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_main: 
+		false
+*	is_resid: 
+		false
+*	addr_id: 
+		70825
+obj_addr_list
+*	addr_id: 
+		70826
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70865
+*	is_main: 
+		true
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70866
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_resid: 
+		false
+*	addr_id: 
+		70867
+*	is_main: 
+		false
+obj_addr_list
+*	addr_id: 
+		70868
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70869
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_main: 
+		true
+*	is_resid: 
+		false
+*	addr_id: 
+		70908
+obj_addr_list
+*	addr_id: 
+		70909
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70910
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70911
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70912
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70951
+*	is_main: 
+		true
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70952
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_resid: 
+		false
+*	addr_id: 
+		70953
+*	is_main: 
+		false
+obj_addr_list
+*	addr_id: 
+		70954
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70993
+*	is_main: 
+		true
+*	is_resid: 
+		false
+obj_addr_list
+*	is_main: 
+		false
+*	is_resid: 
+		false
+*	addr_id: 
+		70994
+obj_addr_list
+*	addr_id: 
+		70995
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70996
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		70997
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_resid: 
+		false
+*	addr_id: 
+		71036
+*	is_main: 
+		true
+obj_addr_list
+*	addr_id: 
+		71037
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		71038
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		71039
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		71040
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		71079
+*	is_main: 
+		true
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		71080
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		71081
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		71082
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		71083
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		71122
+*	is_main: 
+		true
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		71123
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		71124
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		71125
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69853
+*	is_main: 
+		true
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69854
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69855
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_resid: 
+		false
+*	addr_id: 
+		69856
+*	is_main: 
+		false
+obj_addr_list
+*	addr_id: 
+		71201
+*	is_main: 
+		true
+*	is_resid: 
+		false
+obj_addr_list
+*	is_main: 
+		false
+*	is_resid: 
+		false
+*	addr_id: 
+		71202
+obj_addr_list
+*	addr_id: 
+		71203
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_resid: 
+		false
+*	addr_id: 
+		71204
+*	is_main: 
+		false
+obj_addr_list
+*	is_main: 
+		false
+*	is_resid: 
+		false
+*	addr_id: 
+		71205
+obj_addr_list
+*	addr_id: 
+		71240
+*	is_main: 
+		true
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		71241
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		71242
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		71243
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		71244
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		71279
+*	is_main: 
+		true
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		71280
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_main: 
+		false
+*	is_resid: 
+		false
+*	addr_id: 
+		71281
+obj_addr_list
+*	is_main: 
+		true
+*	is_resid: 
+		false
+*	addr_id: 
+		71201
+obj_addr_list
+*	addr_id: 
+		71202
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		71203
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_main: 
+		false
+*	is_resid: 
+		false
+*	addr_id: 
+		71204
+obj_addr_list
+*	addr_id: 
+		71205
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		71240
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_main: 
+		false
+*	is_resid: 
+		false
+*	addr_id: 
+		71241
+obj_addr_list
+*	addr_id: 
+		71242
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_resid: 
+		false
+*	addr_id: 
+		71243
+*	is_main: 
+		false
+obj_addr_list
+*	addr_id: 
+		71244
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_resid: 
+		false
+*	addr_id: 
+		71314
+*	is_main: 
+		false
+obj_addr_list
+*	addr_id: 
+		71347
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_main: 
+		false
+*	is_resid: 
+		false
+*	addr_id: 
+		71348
+obj_addr_list
+*	addr_id: 
+		71349
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		71350
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		71352
+*	is_main: 
+		true
+*	is_resid: 
+		false
+obj_addr_list
+*	is_main: 
+		false
+*	is_resid: 
+		false
+*	addr_id: 
+		71353
+obj_addr_list
+*	addr_id: 
+		71354
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		71355
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		71356
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_main: 
+		false
+*	is_resid: 
+		false
+*	addr_id: 
+		71358
+obj_addr_list
+*	addr_id: 
+		71359
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		71360
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_main: 
+		false
+*	is_resid: 
+		false
+*	addr_id: 
+		71361
+obj_addr_list
+*	is_main: 
+		false
+*	is_resid: 
+		false
+*	addr_id: 
+		71362
+obj_addr_list
+*	addr_id: 
+		71364
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		71365
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		71366
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		71367
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		71368
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		71370
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		71371
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		71372
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		71373
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		71374
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		71376
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		71377
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_main: 
+		false
+*	is_resid: 
+		false
+*	addr_id: 
+		71378
+obj_addr_list
+*	is_main: 
+		false
+*	is_resid: 
+		false
+*	addr_id: 
+		71379
+obj_addr_list
+*	is_main: 
+		false
+*	is_resid: 
+		false
+*	addr_id: 
+		71380
+obj_addr_list
+*	is_resid: 
+		false
+*	addr_id: 
+		69538
+*	is_main: 
+		true
+obj_addr_list
+*	is_main: 
+		false
+*	is_resid: 
+		false
+*	addr_id: 
+		69539
+obj_addr_list
+*	addr_id: 
+		69540
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69541
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69542
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69638
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69639
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69640
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69641
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69642
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		71413
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		71450
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_main: 
+		true
+*	is_resid: 
+		false
+*	addr_id: 
+		71452
+obj_addr_list
+*	addr_id: 
+		71453
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_resid: 
+		false
+*	addr_id: 
+		71454
+*	is_main: 
+		false
+obj_addr_list
+*	addr_id: 
+		71455
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		71456
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		71458
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		71459
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		71460
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		71461
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		71462
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69538
+*	is_main: 
+		true
+*	is_resid: 
+		false
+obj_addr_list
+*	is_main: 
+		false
+*	is_resid: 
+		false
+*	addr_id: 
+		69539
+obj_addr_list
+*	addr_id: 
+		69540
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69541
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69542
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69638
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69639
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_resid: 
+		false
+*	addr_id: 
+		69640
+*	is_main: 
+		false
+obj_addr_list
+*	addr_id: 
+		69641
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69642
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		71499
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69538
+*	is_main: 
+		true
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69539
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69540
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_main: 
+		false
+*	is_resid: 
+		false
+*	addr_id: 
+		69541
+obj_addr_list
+*	addr_id: 
+		69542
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69538
+*	is_main: 
+		true
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69539
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69540
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_main: 
+		false
+*	is_resid: 
+		false
+*	addr_id: 
+		69541
+obj_addr_list
+*	addr_id: 
+		69542
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69853
+*	is_main: 
+		true
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69854
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69855
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_resid: 
+		false
+*	addr_id: 
+		69856
+*	is_main: 
+		false
+obj_addr_list
+*	addr_id: 
+		69853
+*	is_main: 
+		true
+*	is_resid: 
+		false
+obj_addr_list
+*	is_resid: 
+		false
+*	addr_id: 
+		69854
+*	is_main: 
+		false
+obj_addr_list
+*	addr_id: 
+		69855
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69856
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		71680
+*	is_main: 
+		true
+*	is_resid: 
+		false
+obj_addr_list
+*	is_resid: 
+		false
+*	addr_id: 
+		71681
+*	is_main: 
+		false
+obj_addr_list
+*	addr_id: 
+		71682
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		71683
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_resid: 
+		false
+*	addr_id: 
+		71720
+*	is_main: 
+		true
+obj_addr_list
+*	addr_id: 
+		71721
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		71722
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		71723
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		71760
+*	is_main: 
+		true
+*	is_resid: 
+		false
+obj_addr_list
+*	is_resid: 
+		false
+*	addr_id: 
+		71761
+*	is_main: 
+		false
+obj_addr_list
+*	addr_id: 
+		71762
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_main: 
+		false
+*	is_resid: 
+		false
+*	addr_id: 
+		71763
+obj_addr_list
+*	addr_id: 
+		71800
+*	is_main: 
+		true
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		71801
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_resid: 
+		false
+*	addr_id: 
+		71802
+*	is_main: 
+		false
+obj_addr_list
+*	is_main: 
+		false
+*	is_resid: 
+		false
+*	addr_id: 
+		71803
+obj_addr_list
+*	is_resid: 
+		false
+*	addr_id: 
+		71840
+*	is_main: 
+		true
+obj_addr_list
+*	addr_id: 
+		71841
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		71842
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_main: 
+		false
+*	is_resid: 
+		false
+*	addr_id: 
+		71843
+obj_addr_list
+*	is_main: 
+		true
+*	is_resid: 
+		false
+*	addr_id: 
+		78634
+obj_addr_list
+*	addr_id: 
+		78501
+*	is_main: 
+		true
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69183
+*	is_main: 
+		true
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69184
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69185
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69186
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	addr_id: 
+		69187
+*	is_main: 
+		false
+*	is_resid: 
+		false
+obj_addr_list
+*	is_main: 
+		false
+*	is_resid: 
+		false
+*	addr_id: 
+		78618
+obj_addr_list
+*	addr_id: 
+		78619
+*	is_main: 
+		true
+*	is_resid: 
+		false

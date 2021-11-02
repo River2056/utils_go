@@ -1,0 +1,8 @@
+lang_id
+name
+name_intl
+name_long
+name_abbr
+date_valid
+date_valid_to
+ins_time

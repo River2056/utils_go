@@ -1,0 +1,9 @@
+Name	Path	Type	Format	Length	Precision	Currency	Decimal	Group	Trim type	Repeat
+obj_name_lang_id	$.*.lang_id
+obj_name_name	$.*.name
+obj_name_name_intl	$.*.name_intl
+obj_name_name_long	$.*.name_long
+obj_name_name_abbr	$.*.name_abbr
+obj_name_date_valid	$.*.date_valid
+obj_name_date_valid_to	$.*.date_valid_to
+obj_name_ins_time	$.*.ins_time

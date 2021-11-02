@@ -1,0 +1,11 @@
+{
+	"json-file-path": "C:\\Users\\user\\Desktop\\temp\\PERSON\\dwh_exp_ctbc_obj_person_full_pbdm_person_bu.sg_20211021_155542.147464000_p08_00.json",
+	"attr-to-search": [
+		"birth_date",
+		"death_date",
+		"cease_date",
+		"marital_status_from",
+		"open_date",
+		"close_date"
+	]
+}
