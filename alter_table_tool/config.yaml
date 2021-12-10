@@ -1,0 +1,5 @@
+table-name: PBDM_MACC
+alter-cmd: DROP COLUMN
+alter-columns: 
+  - MARKET_RATE_NAME
+  - INTEREST_DAYS

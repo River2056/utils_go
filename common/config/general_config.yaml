@@ -1,0 +1,25 @@
+ftp-ip: 10.155.137.31:21
+user: apadmin
+password: B5ed9yf6
+
+recursive-look-for-file-in-ftp:
+  path-to-look-for: /DataMart
+  file-to-look-for:
+    - .*CODE.*.ktr
+    - .*CODE.*.sql
+
+retrive-file-from-ftp:
+  path-to-look-for: /DataMart/DataMart_Finally
+  files-to-retrive:
+    - .*CODE.*.ktr
+    - .*CODE.*.sql
+  dest-to-save-files: C:\Users\user\Desktop\upload_temp
+
+look-for-file-and-upload-to-destination:
+  file-dest-root-path: /DataMart/DataMart_Finally
+  file-src-root-path: C:\Users\user\Desktop\upload_temp
+
+delete-file-on-ftp: 
+  path-to-look-for: /Kevin
+  files-to-delete:
+    - .*text.txt

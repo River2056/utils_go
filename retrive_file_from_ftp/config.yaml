@@ -1,0 +1,8 @@
+ftp-ip: 10.155.137.31:21
+user: apadmin
+password: M7ny0jf8
+path-to-look-for: /DataMart/DataMart_Finally
+files-to-retrive: 
+  - .*AVQ_DWH_OBJ_MACC_SG.*
+  - .*AVQ_DWH_OBJ_MACC_HK.*
+dest-to-save-files: C:\Users\user\Desktop\Spec_1117

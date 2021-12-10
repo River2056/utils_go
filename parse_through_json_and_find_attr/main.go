@@ -7,17 +7,19 @@ import (
 	"io/ioutil"
 	"os"
 	"reflect"
+
+	"gopkg.in/yaml.v2"
 )
 
 type Configuration struct {
-	Path  string   `json:"json-file-path"`
-	Attrs []string `json:"attr-to-search"`
+	Path  string   `yaml:"json-file-path"`
+	Attrs []string `yaml:"attr-to-search"`
 }
 
 var config Configuration
 var result string
 
-func lookUpForAttribute(jsonObj map[string]interface{}, attr string) {
+func lookUpForAttribute(jsonObj map[string]interface{}, attr, jsonPath string) {
 	for k, v := range jsonObj {
 		valueType := reflect.TypeOf(v).Kind()
 		if valueType.String() != "slice" && k == attr {
@@ -33,7 +35,8 @@ func lookUpForAttribute(jsonObj map[string]interface{}, attr string) {
 					for _, element := range v.([]interface{}) {
 						switch element.(type) {
 						case map[string]interface{}:
-							fmt.Println(k)
+							jsonPath += fmt.Sprintf(", %v\n", k)
+							fmt.Println(fmt.Sprintf("jsonPath: %v", jsonPath))
 							result += fmt.Sprintf("%v\n", k)
 							for elemK, elemV := range element.(map[string]interface{}) {
 								fmt.Println(fmt.Sprintf("*\t%v: ", elemK))
@@ -54,7 +57,8 @@ func lookUpForAttribute(jsonObj map[string]interface{}, attr string) {
 				value := s.Index(i).Interface()
 				switch item := value.(type) {
 				case map[string]interface{}:
-					lookUpForAttribute(item, attr)
+					jsonPath += fmt.Sprintf("%v %v", k, i)
+					lookUpForAttribute(item, attr, jsonPath)
 				default:
 					fmt.Println(value)
 					result += fmt.Sprintf("%v\n", value)
@@ -65,12 +69,13 @@ func lookUpForAttribute(jsonObj map[string]interface{}, attr string) {
 				strV := fmt.Sprintf("%v", v)
 				if len(strV) != 0 {
 					fmt.Println(v)
+					result += fmt.Sprintf("jsonPath: %v, %v", k, strV)
 					result += fmt.Sprintf("%v\n", v)
 					return
 				}
 			}
 			m := reflect.ValueOf(v).Interface()
-			lookUpForAttribute(m.(map[string]interface{}), attr)
+			lookUpForAttribute(m.(map[string]interface{}), attr, jsonPath)
 		}
 	}
 	if ok, _ := common.Exists("./result"); !ok {
@@ -87,9 +92,9 @@ func checkError(err error) {
 }
 
 func init() {
-	configFile, err := ioutil.ReadFile("./config.json")
+	configFile, err := ioutil.ReadFile("./config.yaml")
 	checkError(err)
-	json.Unmarshal(configFile, &config)
+	yaml.Unmarshal(configFile, &config)
 }
 
 func main() {
@@ -105,7 +110,8 @@ func main() {
 	var jsonObj map[string]interface{}
 	json.Unmarshal(byteValue, &jsonObj)
 
+	jsonPath := ""
 	for _, attr := range attrs {
-		lookUpForAttribute(jsonObj, attr)
+		lookUpForAttribute(jsonObj, attr, jsonPath)
 	}
 }

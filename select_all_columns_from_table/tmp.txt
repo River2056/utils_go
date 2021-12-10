@@ -1,0 +1,11 @@
+Connection established: &{%!s(int64=0) {server=172.24.17.23;user id=pbss_sit_dbo;password=dbosit;port=1803;database=PBSS_SIT_1; %!s(*mssql.Driver=&{{<nil>} false})} %!s(uint64=0) {%!s(int32=0) %!s(uint32=0)} [] map[] %!s(uint64=0) %!s(int=0) %!s(chan struct {}=0xc000086180) %!s(bool=false) map[] map[] %!s(int=0) %!s(int=0) %!s(time.Duration=0) %!s(time.Duration=0) %!s(chan struct {}=<nil>) %!s(int64=0) %!s(int64=0) %!s(int64=0) %!s(int64=0) %!s(func()=0xbca520)}
+SELECT 
+	sg.POS_ID,
+	sg.OBJ_SUB_TYPE_ID,
+	sg.BU_ID,
+	sg.BP_ID,
+	sg.CONT_ID,
+	sg.ASSET_ID,
+	sg.REF_CURRY_ID,
+	sg.AS_OF_DATE
+FROM AVQ_DWH_OBJ_POS_SG sg

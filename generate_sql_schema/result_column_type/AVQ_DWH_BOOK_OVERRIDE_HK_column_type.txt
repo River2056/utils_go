@@ -1,7 +1,0 @@
-varchar(200)
-varchar(200)
-varchar(200)
-varchar(200)
-varchar(200)
-varchar(200)
-varchar(200)

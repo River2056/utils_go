@@ -1,107 +1,37 @@
-Table field	Stream field
-bank_date	bank_date
-id	id
-birth_date	birth_date
-place_birth	place_birth
-birth_country_id	birth_country_id
-death_date	death_date
-lang_id	lang_id
-establish_date	establish_date
-establish_country_id	establish_country_id
-cease_date	cease_date
-sctr_remark	sctr_remark
-gender_id	gender_id
-remark	remark
-open_date	open_date
-close_date	close_date
-bank_date_1	bank_date_1
-obj_list	obj_list
-trans_list	trans_list
-struct_add_list	struct_add_list
-person_det_list	person_det_list
-addr_list_obj	addr_list_obj
-country_nati_list	country_nati_list
-classif_list	classif_list
-id_1	id_1
-birth_date_1	birth_date_1
-place_birth_1	place_birth_1
-birth_country_id_1	birth_country_id_1
-death_date_1	death_date_1
-lang_id_1	lang_id_1
-establish_date_1	establish_date_1
-establish_country_id_1	establish_country_id_1
-cease_date_1	cease_date_1
-sctr_remark_1	sctr_remark_1
-gender_id_1	gender_id_1
-remark_1	remark_1
-open_date_1	open_date_1
-close_date_1	close_date_1
-addr_list_country_id	addr_list_country_id
-addr_list_displ_text	addr_list_displ_text
-addr_list_is_domi_addr	addr_list_is_domi_addr
-first_name	first_name
-middle_name	middle_name
-last_name	last_name
-artist_name	artist_name
-birth_name	birth_name
-client_status_id	client_status_id
-country_nati_id	country_nati_id
-empl_kind_id	empl_kind_id
-end_date	end_date
-is_leg_incap	is_leg_incap
-jurisdiction_place_id	jurisdiction_place_id
-legal_form_id	legal_form_id
-marital_status_from	marital_status_from
-marital_status_id	marital_status_id
-person_type_id	person_type_id
-profession	profession
-start_date	start_date
-title_alt	title_alt
-title_id	title_id
-id_2	id_2
-id_3	id_3
-nati_displ_text	nati_displ_text
-id_4	id_4
-classif_obj_classif_id	classif_obj_classif_id
-id_5	id_5
-classif_obj_classif_id_1	classif_obj_classif_id_1
-id_6	id_6
-classif_obj_classif_id_2	classif_obj_classif_id_2
-id_7	id_7
-classif_obj_classif_id_3	classif_obj_classif_id_3
-id_8	id_8
-classif_obj_classif_id_4	classif_obj_classif_id_4
-id_9	id_9
-classif_obj_classif_id_5	classif_obj_classif_id_5
-id_10	id_10
-classif_obj_classif_id_6	classif_obj_classif_id_6
-id_11	id_11
-country_id	country_id
-id_12	id_12
-id_13	id_13
-trans_seq_nr	trans_seq_nr
-bank_date_2	bank_date_2
-obj_list_1	obj_list_1
-trans_list_1	trans_list_1
-struct_add_list_1	struct_add_list_1
-person_det_list_1	person_det_list_1
-addr_list_obj_1	addr_list_obj_1
-country_nati_list_1	country_nati_list_1
-classif_list_1	classif_list_1
-id_1_1	id_1_1
-birth_date_2	birth_date_2
-place_birth_2	place_birth_2
-birth_country_id_2	birth_country_id_2
-death_date_2	death_date_2
-lang_id_2	lang_id_2
-establish_date_2	establish_date_2
-establish_country_id_2	establish_country_id_2
-cease_date_2	cease_date_2
-sctr_remark_2	sctr_remark_2
-gender_id_2	gender_id_2
-remark_2	remark_2
-open_date_2	open_date_2
-close_date_2	close_date_2
-trans_seq_nr_1	trans_seq_nr_1
-trans_timestamp	trans_timestamp
-trans_userstamp	trans_userstamp
+Fieldname	Rename to	Length	Precision
+bank_date	AS_OF_DATE		
+form_id			
+id	ID		
+bu_id	BU_ID		
+asset_id	ASSET_ID		
+wfc_status_id			
+ins_by_sec_user_id			
+order_type_id			
+ordered_by			
+trx_date			
+val_date			
+order_date			
+bp_id			
+cont_id			
+broker_id			
+call_qty			
+strike			
+put_qty			
+pos_qty			
+expiry_date			
+dlv_date			
+opt_type_id			
+settle_price			
+prem			
+spread_1			
+gross			
+net			
+deal_rate			
+postit_text	POSTIT_TEXT		
+trans_timestamp	TRANS_TIMESTAMP		
+trans_sec_user_id	TRANS_SEC_USER_ID		
+override_id	OVERRIDE_ID		
+override_sec_user_id	OVERRIDE_SEC_USER_ID		
+override_timestamp	OVERRIDE_TIMESTAMP		
+override_text	OVERRIDE_TEXT		
+person_id	PERSON_ID		

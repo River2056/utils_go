@@ -1,26 +1,13 @@
-Flow_Id
-Flow_Type
-Data_Flag
-CR_Root_Id
-Mainline_Id
-Facility_Id
-Portfolio_Code
-Limit_CCY_Code
-Facility_Limit_Amt
-Start_Date
-Expiry_Date
-Avail_Flag
-Freeze_Date
-Freeze_Reason_Code
-Interest_Margin
-Std_Interest_Margin
-Internal_Remarks
-New_Loan_Industrial_Code
-Loan_Purpose
-Activation_Date
-ORR_Adjust
-Flow_Result
-Maker_Id
-Maker_Date
-Checker_Id
-Checker_Date
+POS_ID	varchar
+ASSET_ID	varchar
+BP_ID	varchar
+CONT_ID	varchar
+DOC_ID	varchar
+ORDER_TYPE_ID	varchar
+BOOK_DATE	varchar
+TRX_DATE	varchar
+VAL_DATE	varchar
+BOOK_VAL_POS	varchar
+REF_CURRY_ID	varchar
+POS_CURRY_ID	varchar
+AS_oF_DATE	varchar

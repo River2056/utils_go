@@ -1,0 +1,6 @@
+ftp-ip: 10.155.137.31:21
+user: apadmin
+password: M7ny0jf8
+look-for-file-and-upload-to-destination:
+  file-dest-root-path: /Kevin
+  file-src-root-path: C:\Users\user\Desktop\upload_temp

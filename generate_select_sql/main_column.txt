@@ -1,0 +1,140 @@
+Order Number
+Business Type
+Asset Type Code
+Form Type
+Order Type
+Status
+BU
+Branch Code
+Maker Id
+RM
+Initator
+Business Partner
+BPID_SYS
+BP Name
+Container
+CONTID_SYS
+FCC_CIF_ID
+Asset Code
+Asset Name
+Trade Date
+Value Date
+Order Date
+Maturity Date
+Fixing Date
+Settlement Date
+Accounted Date
+Execution Type
+Execution Limit
+Execution Validity
+Execution Validity Date
+Price
+Trade Quantity
+Trade Currency
+Txn Amount
+Local CCY
+Txn Amount_LCY
+MACC
+Accr Intr Ccy
+Accr Interest
+Rate
+Total Deposit Rate
+Total Option Rate
+Spread Amount
+Spread Rate
+Costs
+Commission
+Broker Commission
+Stamp Duty
+Tax
+Transaction Levy
+Trading Fee
+GST
+Exchange Rate
+SAP Rate_USD
+Macc Ccy
+Net in Acc Ccy
+Settlement Type
+Solar Ref No
+External ref no
+CounterParty Id
+Counterparty Cont
+Custodian
+CCY1
+CCY2
+CCY1_Quantity
+CCY2_Quantity
+Client_Exec_Qty
+Client_Exec_CCY
+Payoff Type
+Premium
+Option Type
+Option Style
+Settlement Price
+Barrier Start 1
+Barrier End 1
+Barrier Type 1
+Barrier Level 1
+Barrier Start 2
+Barrier End 2
+Barrier Type 2
+Barrier Level 2
+Dummy Asset
+Underlying 1
+Strike Pct 1
+Reference Price 1
+Trade Date Price 1
+Underlying 2
+Strike Pct 2
+Reference Price 2
+Trade Date Price 2
+Strike Pct
+Period
+Payment period
+Renew Indicator
+MMKT Original Order Number
+Credit BP
+Credit Container
+Credit MACC
+Solicited
+Solicited By
+Solicited Date
+Order Placed via email or phone
+Date/Time/phone extension
+Suitability Assessment result
+Investment Rationale 1
+Investment Rationale 2
+Investment Rationale 3
+Investment Rationale 4
+Investment Rationale 5
+Investment Rationale 6
+Investment Rationale 7
+Investment Justification comment box
+Alternative Investment Product
+BO Order Maker  
+BO Order Checker
+ED approve
+ED reject
+ED approve time
+ED reject time
+FO supervisor approve
+FO supervisor reject
+FO supervisor approve time
+FO supervisor reject time
+Reverse User
+Reverse Time
+Modify order Time
+Modify order Asset price
+Modify order Asset Quantity
+Modify order person
+Remark 1
+Remark 2
+as_of_date
+PTCC mistach Item
+Approval by_ptcc
+Approval date_ptcc
+Record of Soft block/Hard soft block/Hard block
+Time of Soft block/Hard soft block/Hard block
+Post it of Soft block/Hard soft block/Hard block
+Deal Reference Number
+Market Rater

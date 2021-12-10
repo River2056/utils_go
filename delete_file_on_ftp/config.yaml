@@ -1,0 +1,7 @@
+ftp-ip: 10.155.137.31:21
+user: apadmin
+password: M7ny0jf8
+delete-file-on-ftp: 
+  path-to-look-for: /Kevin
+  files-to-delete:
+    - .*text.txt

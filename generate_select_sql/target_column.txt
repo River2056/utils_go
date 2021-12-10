@@ -1,0 +1,139 @@
+Order Number
+Business Type
+
+Product
+Order Type
+Status
+Business Unit
+
+Inserted By
+
+Initator
+Business Partner
+
+
+Container
+
+
+Asset Key
+Asset
+Trade Date
+Value Date
+Order Date
+用Asset Key至【Asset】捉到期日
+從【Asset】的fix_caldr_id連結 obj_caldr 取最近一筆未來日之fixing date填入
+value date
+Accounted Date
+Execution Type
+Execution Limit
+Execution Validity
+Execution Validity Date
+Client Price
+Excuted Quantity
+Trading Currecny
+Gross
+
+Gross * 兌換匯率
+
+Accr Intr Ccy
+Accr Interest
+
+
+
+Spread (Cost)
+Spread Rate
+Costs
+Commission
+Broker Commission
+Stamp Duty
+Tax
+Transaction Levy
+Trading Fee
+GST
+Exchange Rate
+以Macc ccy串【SAP Rate】取兌美金匯率
+Macc Ccy
+Net in Acc Ccy
+Type
+Solar Ref No
+Fund: BDL no
+Counterparty
+Counterparty Cont
+Custodian Cont
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Solicited
+Solicited By
+Solicited Date
+Order Placed via email or phone
+Date/Time/phone extension
+Suitability Assessment result
+Investment Rationale
+
+
+
+
+
+
+Investment Justification comment box
+Alternative Investment Product
+BO Order Maker  
+BO Order Checker
+ED approve
+ED reject
+ED approve time
+ED reject time
+FO supervisor approve
+FO supervisor reject
+FO supervisor approve time
+FO supervisor reject time
+Reverse User
+Reverse Time
+Modify order Time
+Modify order Asset price
+Modify order Asset Quantity
+Modify order person
+
+
+
+
+
+
+
+
+
+

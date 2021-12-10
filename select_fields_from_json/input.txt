@@ -1,8 +1,9 @@
-lang_id
-name
-name_intl
-name_long
-name_abbr
-date_valid
-date_valid_to
-ins_time
+bp_id
+cont_id
+doc_id
+order_type_id
+book_date
+trx_date
+val_date
+book_val_pos
+book_val_pos

@@ -1,0 +1,35 @@
+Solicited
+Solicited By
+Solicited Date
+Order Placed via
+Date_Time_phone extension
+Suitability Assessment result
+Investment Rationale1~7
+Order instruction Person
+Investment Justification comment box
+Alternative Investment Product
+Accounted Date
+BO Order Maker  
+BO Order Checker
+ED approve
+ED reject
+ED approve time
+ED reject time
+FO supervisor approve
+FO supervisor reject
+FO supervisor approve time
+FO supervisor reject time
+Reverse User
+Reverse Time
+Modify order Time
+Modify order Asset price
+Modify order Asset Quantity
+Modify order person
+PTCC mistach Item
+Approval by_ptcc
+Approval date_ptcc
+Record of Soft block/Hard soft block/Hard block
+Time of Soft block/Hard soft block/Hard block
+Post it of Soft block/Hard soft block/Hard block
+PTCC Mismatch(Alert) item
+Initator

@@ -1,0 +1,9 @@
+ftp-ip: 10.155.137.31:21
+user: apadmin
+password: V3ar1sd4
+
+recursive-look-for-file-in-ftp:
+  path-to-look-for: /DataMart
+  file-to-look-for: 
+  - .*AVQ_DWH_OBJ_MACC_SG.*
+  - .*AVQ_DWH_OBJ_MACC_HK.*

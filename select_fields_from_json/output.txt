@@ -1,9 +1,10 @@
 Name	Path	Type	Format	Length	Precision	Currency	Decimal	Group	Trim type	Repeat
-obj_name_lang_id	$.*.lang_id
-obj_name_name	$.*.name
-obj_name_name_intl	$.*.name_intl
-obj_name_name_long	$.*.name_long
-obj_name_name_abbr	$.*.name_abbr
-obj_name_date_valid	$.*.date_valid
-obj_name_date_valid_to	$.*.date_valid_to
-obj_name_ins_time	$.*.ins_time
+book_list_bp_id	$.[*].bp_id
+book_list_cont_id	$.[*].cont_id
+book_list_doc_id	$.[*].doc_id
+book_list_order_type_id	$.[*].order_type_id
+book_list_book_date	$.[*].book_date
+book_list_trx_date	$.[*].trx_date
+book_list_val_date	$.[*].val_date
+book_list_book_val_pos	$.[*].book_val_pos
+book_list_book_val_pos	$.[*].book_val_pos

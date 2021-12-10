@@ -23,7 +23,8 @@ func main() {
 	}
 	contentArr := strings.Split(contents, "\r\n")
 	for _, v := range contentArr {
-		result += fmt.Sprintf("%v%v\t%v\n", namePrefix, v, fmt.Sprintf("$.*.%v", v))
+		v = strings.ToLower(v)
+		result += fmt.Sprintf("%v%v\t%v\n", namePrefix, v, fmt.Sprintf("$.[*].%v", v))
 	}
 
 	result = result[:strings.LastIndex(result, "\n")]
